@@ -1,0 +1,18 @@
+{
+  "swift_files": 6,
+  "project_objects": 74,
+  "other_projects_compared": 84,
+  "uuid_collisions": [],
+  "machine_traces_in_source": [],
+  "localizations": [
+    "en",
+    "de",
+    "fr",
+    "pt-BR"
+  ],
+  "catalog_keys": 125,
+  "incomplete_translations": [],
+  "unlocalized_static_keys": [],
+  "forbidden_ui_terms": [],
+  "spec_sha256": "15b53823d323c8d75276b2e7243ceabe6c1b6072f26729f35d70e01941d12fcc"
+}

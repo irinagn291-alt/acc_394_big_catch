@@ -1,0 +1,29 @@
+{
+  "ageRating": "4+",
+  "price": "Free",
+  "privacy": "Data Not Collected",
+  "en": {
+    "name": "Big Catch",
+    "subtitle": "Quiet lakes, new discoveries",
+    "keywords": "fishing game,bass fishing,idle fishing,lake,fish collection,relax,tackle",
+    "description": "Take a quiet cast into four illustrated lakes. Watch the float, set the hook and guide the line through a gentle tension game. Record twelve species in your trophy room, earn tackle through play and complete monthly collection goals for keepsake badges. Fish return to the water after every catch. Local bite windows follow your device clock. Idle supplies build for up to eight hours, while fish are recorded only after you reel them in. Home Screen and Lock Screen widgets show your collection and progress offline. Optional reminders run locally on your device. No accounts, purchases or advertising."
+  },
+  "de": {
+    "name": "Big Catch",
+    "subtitle": "Ruhige Seen, neue Entdeckungen",
+    "keywords": "Angelspiel,Barsch,Angeln,See,Fischsammlung,Entspannung,Ausrüstung",
+    "description": "Wirf die Angel in vier illustrierte Seen. Beobachte den Schwimmer, setze den Anhieb und halte die Schnurspannung im ruhigen Rhythmus. Erfasse zwölf Arten, verdiene Ausrüstung durch Spielen und sammle Erinnerungsabzeichen für Monatsziele. Jeder Fisch kommt zurück ins Wasser. Beißzeiten folgen deiner Gerätezeit. Vorräte sammeln sich bis zu acht Stunden an; Fische werden erst nach dem Einholen erfasst. Widgets zeigen Sammlung und Fortschritt offline. Freiwillige Erinnerungen bleiben lokal. Ohne Konten, Käufe und Werbung."
+  },
+  "fr": {
+    "name": "Big Catch",
+    "subtitle": "Lacs paisibles et découvertes",
+    "keywords": "jeu de pêche,poisson,lac,collection,détente,équipement,pêche au repos",
+    "description": "Lancez votre ligne dans quatre lacs illustrés. Guettez le flotteur, ferrez et gardez une tension douce. Inscrivez douze espèces, obtenez votre équipement en jouant et accomplissez les objectifs mensuels pour des badges souvenirs. Chaque poisson retourne à l’eau. Les heures de pêche suivent l’horloge de votre appareil. Les provisions s’accumulent jusqu’à huit heures ; les poissons sont inscrits après la capture. Les widgets affichent votre collection hors ligne. Rappels locaux facultatifs. Sans compte, achat ni publicité."
+  },
+  "pt-BR": {
+    "name": "Big Catch",
+    "subtitle": "Lagos calmos e descobertas",
+    "keywords": "jogo de pesca,achigã,pesca idle,lago,coleção de peixes,relaxar,equipamento",
+    "description": "Lance sua linha em quatro lagos ilustrados. Observe a boia, fisgue e controle a tensão da linha com suavidade. Registre doze espécies, obtenha equipamento jogando e cumpra metas mensais para ganhar distintivos de lembrança. Todos os peixes voltam para a água. Os horários seguem o relógio do aparelho. Suprimentos se acumulam por até oito horas; peixes só são registrados após a captura. Widgets mostram coleção e progresso offline. Lembretes locais opcionais. Sem contas, compras ou anúncios."
+  }
+}

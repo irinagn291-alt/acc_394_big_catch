@@ -1,0 +1,1 @@
+Version 1.2.1 features offline catch-and-release fishing, a 12-species collection and monthly Trophy Room goals.

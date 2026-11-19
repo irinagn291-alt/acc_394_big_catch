@@ -1,0 +1,125 @@
+A quiet cast|Ein ruhiger Wurf|Un lancer paisible|Um lançamento tranquilo
+Trophy room|Trophäenraum|Salle des trophées|Sala de troféus
+Your tackle|Deine Ausrüstung|Votre équipement|Seu equipamento
+Discover the lakes|Entdecke die Seen|Découvrir les lacs|Descubra os lagos
+Coins|Münzen|Pièces|Moedas
+Settings|Einstellungen|Réglages|Ajustes
+Fish|Angeln|Pêcher|Pescar
+Trophies|Trophäen|Trophées|Troféus
+Tackle|Ausrüstung|Équipement|Equipamento
+Lakes|Seen|Lacs|Lagos
+Your waterside supplies|Dein Vorrat am Wasser|Vos provisions au bord de l’eau|Seus suprimentos à beira d’água
+Coins gathered while you were away|Während deiner Abwesenheit gesammelte Münzen|Pièces recueillies en votre absence|Moedas reunidas enquanto você estava fora
+Dismiss|Schließen|Fermer|Fechar
+Daily bite window|Tägliche Beißzeit|Heures de pêche du jour|Horário de pesca do dia
+Game conditions follow your device clock.|Die Spielbedingungen folgen deiner Gerätezeit.|Les conditions du jeu suivent l’heure de votre appareil.|As condições do jogo seguem o relógio do aparelho.
+OFFLINE LAKE|OFFLINE-SEE|LAC HORS LIGNE|LAGO OFFLINE
+Lively water|Lebhaftes Wasser|Eaux animées|Águas animadas
+Gentle water|Ruhiges Wasser|Eaux paisibles|Águas tranquilas
+Find your rhythm. Let the water lead.|Finde deinen Rhythmus. Folge dem Wasser.|Trouvez votre rythme. Suivez le fil de l’eau.|Encontre seu ritmo. Siga a água.
+A bite!|Ein Biss!|Une touche !|Uma fisgada!
+Ready when you are|Bereit, wenn du es bist|À votre rythme|Quando você quiser
+Waiting for a ripple|Warten auf eine Welle|En attendant une vague|Esperando uma ondulação
+Time to set the hook|Zeit zum Anhieb|C’est le moment de ferrer|Hora de fisgar
+Keep a gentle rhythm|Halte einen sanften Rhythmus|Gardez un rythme doux|Mantenha um ritmo suave
+A moment to remember|Ein besonderer Moment|Un instant mémorable|Um momento para lembrar
+Another quiet chance|Eine neue ruhige Gelegenheit|Une nouvelle occasion paisible|Uma nova chance tranquila
+Cast into the lake, then watch for a bite. Every fish returns to the water.|Wirf aus und warte auf einen Biss. Jeder Fisch kommt zurück ins Wasser.|Lancez votre ligne, puis guettez une touche. Chaque poisson retourne à l’eau.|Lance a linha e espere uma fisgada. Todo peixe volta para a água.
+Cast your line|Wirf die Angel aus|Lancer la ligne|Lançar a linha
+A little patience. The float will move when a fish is ready.|Etwas Geduld. Der Schwimmer bewegt sich, wenn ein Fisch anbeißt.|Un peu de patience. Le flotteur bougera quand un poisson sera prêt.|Um pouco de paciência. A boia se move quando um peixe chega.
+Bring the line in|Angel einholen|Ramener la ligne|Recolher a linha
+Tap to hook the fish before it swims away.|Tippe für den Anhieb, bevor der Fisch wegschwimmt.|Touchez pour ferrer le poisson avant qu’il ne s’éloigne.|Toque para fisgar antes que o peixe vá embora.
+Set the hook|Anhieb setzen|Ferrer|Fisgar
+Line tension|Schnurspannung|Tension de la ligne|Tensão da linha
+Reel to raise tension. Ease to lower it. Keep tension between 22% and 82%.|Hole ein, um die Spannung zu erhöhen. Lass locker, um sie zu senken. Halte die Spannung zwischen 22 % und 82 %.|Moulinez pour tendre la ligne. Relâchez pour la détendre. Gardez la tension entre 22 % et 82 %.|Recolha para aumentar a tensão. Solte para diminuir. Mantenha a tensão entre 22% e 82%.
+Reel gently|Sanft einholen|Mouliner doucement|Recolher suavemente
+Ease|Lockern|Relâcher|Soltar
+Recorded in your trophy room. Released with care.|Im Trophäenraum erfasst. Vorsichtig freigelassen.|Inscrit dans vos trophées. Relâché avec soin.|Registrado na sala de troféus. Devolvido com cuidado.
+Cast again|Erneut auswerfen|Relancer|Lançar novamente
+The fish swam away. Cast again.|Der Fisch ist weggeschwommen. Wirf erneut aus.|Le poisson s’est éloigné. Relancez votre ligne.|O peixe foi embora. Lance novamente.
+The line went loose or too tight. Try a gentler rhythm.|Die Schnur war zu locker oder zu straff. Versuche einen sanfteren Rhythmus.|La ligne était trop lâche ou trop tendue. Essayez un rythme plus doux.|A linha ficou frouxa ou tensa demais. Tente um ritmo mais suave.
+Species|Arten|Espèces|Espécies
+Catches|Fänge|Prises|Capturas
+Your collection|Deine Sammlung|Votre collection|Sua coleção
+Every catch is recorded here. Explore new lakes to find all twelve species.|Jeder Fang wird hier erfasst. Entdecke neue Seen, um alle zwölf Arten zu finden.|Chaque prise est inscrite ici. Explorez les lacs pour découvrir les douze espèces.|Cada captura fica registrada aqui. Explore os lagos para encontrar as doze espécies.
+Best|Bester Fang|Record|Recorde
+Caught|Gefangen|Capturés|Capturados
+Not discovered yet|Noch nicht entdeckt|Pas encore découvert|Ainda não descoberto
+Recent catches|Letzte Fänge|Prises récentes|Capturas recentes
+Season on the water|Saison am Wasser|Saison au bord de l’eau|Temporada na água
+Monthly goals award keepsake badges only. New goals begin each calendar month.|Monatsziele vergeben nur Erinnerungsabzeichen. Neue Ziele beginnen jeden Kalendermonat.|Les objectifs mensuels offrent uniquement des badges souvenirs. Ils se renouvellent chaque mois civil.|As metas mensais oferecem apenas distintivos de lembrança. Novas metas começam a cada mês.
+Catch twelve fish|Fange zwölf Fische|Capturer douze poissons|Capture doze peixes
+Discover six species|Entdecke sechs Arten|Découvrir six espèces|Descubra seis espécies
+Record 30 kg this month|Erfasse diesen Monat 30 kg|Inscrire 30 kg ce mois-ci|Registre 30 kg neste mês
+Collected badges|Gesammelte Abzeichen|Badges obtenus|Distintivos reunidos
+Good tools, quieter water.|Gute Ausrüstung, ruhiges Wasser.|De bons outils, des eaux paisibles.|Boas ferramentas, águas tranquilas.
+Use coins earned by fishing and idle supplies. Everything here is earned through play.|Nutze Münzen vom Angeln und aus Vorräten. Alles hier wird durch Spielen verdient.|Utilisez les pièces de la pêche et des provisions. Tout se gagne en jouant.|Use moedas da pesca e dos suprimentos. Tudo é obtido jogando.
+Rods|Ruten|Cannes|Varas
+Lures|Köder|Leurres|Iscas
+Equipped|Ausgerüstet|Équipé|Em uso
+Equip|Ausrüsten|Équiper|Equipar
+Balanced for a first cast|Ausgewogen für den ersten Wurf|Équilibrée pour débuter|Equilibrada para começar
+Smoother line tension|Sanftere Schnurspannung|Une tension plus douce|Tensão de linha mais suave
+The most forgiving tension|Besonders gutmütige Spannung|La tension la plus souple|A tensão mais tolerante
+A simple lake companion|Ein einfacher Begleiter am See|Un compagnon simple au lac|Uma companhia simples no lago
+More uncommon species|Mehr seltene Arten|Plus d’espèces peu communes|Mais espécies incomuns
+The strongest rare-species attraction|Lockt seltene Arten am stärksten an|L’attrait maximal pour les espèces rares|Maior atração de espécies raras
+Four waters. Twelve discoveries.|Vier Gewässer. Zwölf Entdeckungen.|Quatre lacs. Douze découvertes.|Quatro lagos. Doze descobertas.
+Explore by catching fish and gathering idle experience. Lake access is permanent.|Erkunde durch Fänge und passive Erfahrung. Freigeschaltete Seen bleiben zugänglich.|Explorez en pêchant et en recueillant de l’expérience au repos. L’accès aux lacs est permanent.|Explore pescando e reunindo experiência durante a ausência. O acesso aos lagos é permanente.
+Fishing here|Hier angeln|Pêcher ici|Pescando aqui
+Fish this lake|Diesen See wählen|Choisir ce lac|Pescar neste lago
+Exploration|Erkundung|Exploration|Exploração
+Make yourself comfortable|Mach es dir bequem|Installez-vous|Fique à vontade
+Metric weights|Metrische Gewichte|Poids métriques|Pesos em quilogramas
+Gentle haptics|Sanfte Haptik|Vibrations douces|Vibrações suaves
+Calm water|Ruhiges Wasser|Eau calme|Água calma
+Calm water reduces motion and shortens reeling time.|Ruhiges Wasser reduziert Bewegung und verkürzt das Einholen.|L’eau calme réduit les animations et le temps de récupération.|Água calma reduz o movimento e o tempo de recolhimento.
+Local reminders|Lokale Erinnerungen|Rappels locaux|Lembretes locais
+Choose daily bite-window reminders and a monthly season note. Notifications are optional and stay on this device.|Wähle tägliche Beißzeiten und eine monatliche Saisonnotiz. Mitteilungen sind freiwillig und bleiben auf diesem Gerät.|Choisissez des rappels quotidiens et une note de saison mensuelle. Ils sont facultatifs et restent sur cet appareil.|Escolha lembretes diários e um aviso mensal da temporada. São opcionais e ficam neste aparelho.
+Remind me|Erinnern|Me rappeler|Receber lembretes
+Open system settings|Systemeinstellungen öffnen|Ouvrir les réglages système|Abrir ajustes do sistema
+Widgets|Widgets|Widgets|Widgets
+Add Big Catch widgets from your Home Screen or Lock Screen. They show local bite hours, lake progress and your collection without a connection.|Füge Big Catch-Widgets zum Home- oder Sperrbildschirm hinzu. Sie zeigen lokale Beißzeiten, Seenfortschritt und deine Sammlung ohne Verbindung.|Ajoutez les widgets Big Catch à l’écran d’accueil ou verrouillé. Ils affichent les heures de pêche, la progression et la collection hors ligne.|Adicione widgets do Big Catch na tela de início ou bloqueada. Eles mostram horários, progresso e coleção offline.
+Your data|Deine Daten|Vos données|Seus dados
+No accounts, analytics, tracking, purchases or advertising. Your collection stays on this device and its widget group. Deleting the app removes local progress; system backups follow your device settings.|Keine Konten, Analysen, Nachverfolgung, Käufe oder Werbung. Deine Sammlung bleibt auf diesem Gerät und in seiner Widget-Gruppe. Beim Löschen der App geht lokaler Fortschritt verloren; Systemsicherungen folgen den Geräteeinstellungen.|Sans compte, analyse, suivi, achat ni publicité. Votre collection reste sur cet appareil et son groupe de widgets. Supprimer l’app efface la progression locale ; les sauvegardes suivent les réglages de l’appareil.|Sem contas, análise, rastreamento, compras ou anúncios. Sua coleção fica neste aparelho e no grupo de widgets. Excluir o app remove o progresso local; os backups seguem os ajustes do aparelho.
+Idle supplies accrue every five minutes, up to eight hours away. Fish are only recorded after you reel them in.|Vorräte sammeln sich alle fünf Minuten bis zu acht Stunden an. Fische werden erst nach dem Einholen erfasst.|Les provisions s’accumulent toutes les cinq minutes, jusqu’à huit heures. Les poissons sont inscrits après leur capture.|Suprimentos se acumulam a cada cinco minutos, por até oito horas. Peixes só são registrados após a captura.
+Erase local progress|Lokalen Fortschritt löschen|Effacer la progression locale|Apagar progresso local
+Done|Fertig|Terminé|Concluir
+Erase your collection, tackle and coins?|Sammlung, Ausrüstung und Münzen löschen?|Effacer votre collection, équipement et pièces ?|Apagar coleção, equipamento e moedas?
+Cancel|Abbrechen|Annuler|Cancelar
+This cannot be undone.|Dies kann nicht rückgängig gemacht werden.|Cette action est irréversible.|Esta ação não pode ser desfeita.
+Disabled in system settings|In Systemeinstellungen deaktiviert|Désactivé dans les réglages système|Desativado nos ajustes do sistema
+Allowed|Erlaubt|Autorisé|Permitido
+Not requested|Nicht angefragt|Non demandé|Não solicitado
+Could not schedule reminders. Try again.|Erinnerungen konnten nicht geplant werden. Versuche es erneut.|Impossible de programmer les rappels. Réessayez.|Não foi possível agendar lembretes. Tente novamente.
+The lake is waking up|Der See erwacht|Le lac s’éveille|O lago está despertando
+Your daily bite window is open. Take a quiet cast.|Deine tägliche Beißzeit beginnt. Zeit für einen ruhigen Wurf.|Votre créneau de pêche est ouvert. Lancez votre ligne en douceur.|Seu horário de pesca começou. Faça um lançamento tranquilo.
+A new season on the water|Eine neue Saison am Wasser|Une nouvelle saison au lac|Uma nova temporada na água
+Fresh collection goals are ready. Earn keepsake badges at your own pace.|Neue Sammelziele warten. Verdiene Erinnerungsabzeichen in deinem Tempo.|De nouveaux objectifs vous attendent. Obtenez des badges souvenirs à votre rythme.|Novas metas de coleção estão prontas. Ganhe distintivos no seu ritmo.
+All lakes discovered|Alle Seen entdeckt|Tous les lacs découverts|Todos os lagos descobertos
+Your next lake|Dein nächster See|Votre prochain lac|Seu próximo lago
+Cast your first line to begin your collection.|Wirf zum ersten Mal aus und beginne deine Sammlung.|Lancez votre première ligne pour commencer votre collection.|Lance sua primeira linha para começar a coleção.
+Bite hours, lake progress and your trophy room.|Beißzeiten, Seenfortschritt und dein Trophäenraum.|Heures de pêche, progression des lacs et trophées.|Horários de pesca, progresso dos lagos e troféus.
+Willow Lake|Weidensee|Lac des Saules|Lago dos Salgueiros
+Bluewater Reach|Blauwassersee|Lac d’Azur|Lago Azul
+Copper Cove|Kupferbucht|Anse Cuivrée|Enseada de Cobre
+Moonpine Lake|Mondkiefernsee|Lac des Pins lunaires|Lago dos Pinheiros
+Willow rod|Weidenrute|Canne des Saules|Vara de salgueiro
+River rod|Flussrute|Canne de rivière|Vara de rio
+Summit rod|Gipfelrute|Canne des sommets|Vara dos montes
+Copper spoon|Kupferblinker|Cuillère cuivrée|Colher de cobre
+Reed lure|Schilfköder|Leurre des roseaux|Isca dos juncos
+Moon lure|Mondköder|Leurre lunaire|Isca da lua
+Perch|Flussbarsch|Perche|Perca
+Bluegill|Blauer Sonnenbarsch|Crapet arlequin|Peixe-sol azul
+Largemouth bass|Forellenbarsch|Achigan à grande bouche|Achigã
+Rainbow trout|Regenbogenforelle|Truite arc-en-ciel|Truta-arco-íris
+Northern pike|Hecht|Brochet|Lúcio
+Common carp|Karpfen|Carpe commune|Carpa-comum
+Walleye|Glasaugenbarsch|Doré jaune|Lúcio-perca americano
+Channel catfish|Kanalwels|Barbue de rivière|Bagre-de-canal
+Sunfish|Sonnenbarsch|Crapet-soleil|Peixe-sol
+Lake salmon|Seelachs aus Binnengewässern|Saumon de lac|Salmão de lago
+Arctic char|Seesaibling|Omble chevalier|Salvelino-ártico
+Muskellunge|Muskellunge|Maskinongé|Muskellunge
+Preview widgets|Widgets ansehen|Aperçu des widgets|Visualizar widgets

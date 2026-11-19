@@ -1,0 +1,7 @@
+Big Catch is an offline, single-player game for iPhone and iPad on iOS or iPadOS 17.6 or later. It opens at Willow Lake with starter tackle and 80 in-game coins. Accounts and purchases are not required, and there is no real-money purchase flow.
+
+In Fish, cast and wait 3–6 seconds. When a bite appears, select Set the hook within 10 seconds. Use Reel gently and Ease to keep tension above 22% and below 82%. A successful catch shows the species and weight, records the catch in Trophies, awards XP and coins, and releases the fish. Missed bites and failed reels offer another cast. Leaving the active app interrupts the attempt. In Trophies, check the catch record and monthly goals. In Tackle and Lakes, check coin-priced upgrades and XP requirements.
+
+Open Settings from the header to test weight units, haptics, Calm water and the widget preview. Turning on Remind me requests notification permission for alerts and sounds. If allowed, daily bite-hour and monthly reminders are scheduled locally. Turning reminders off cancels pending notifications. Gameplay remains available if permission is denied. Gameplay requires no camera, microphone, location, photo library, biometrics or external accessory access.
+
+Progress stays on the device and is shared with WidgetKit for Home Screen and Lock Screen widgets. The large widget opens Trophies. Other configurations open Lakes. There is no account, server sync, analytics, advertising or network API integration.

@@ -1,0 +1,7 @@
+Generated with the built-in image_gen tool, using the imagegen skill. Original outputs were copied into this project; no external image downloads.
+
+Icon: chunky orange bass jumping toward a glossy fishing lure; deep-blue water splash; premium cartoon 3D fishing style; rounded friendly forms; ocean #0E5AA7, deep #062F55, orange #F97316, sand #F4E4C1. Full bleed opaque iOS square, no text, letters, logos or watermark. Clear central fish silhouette, sculpted fins and glassy water; no coins or awards.
+
+Lake: portrait 1024x1536 peaceful alpine fishing lake at early blue morning; premium stylized 3D illustration; pine forests framing distant shoreline, hazy blue mountains, clear water in middle and lower two thirds, orange sunrise. Reeds at lower corners. No people, rod, fish, float, buildings, interface, text, logos or watermark. Uncluttered water for native overlays.
+
+Review: both assets inspected. Independent fish/lure and alpine landscape imagery, no campaign logos, slogans or recognizable brand layout. App icon is opaque 1024 square; system applies corner mask. Palette follows the supplied brief.

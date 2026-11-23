@@ -176,5 +176,9 @@ enum ScreenshotScreen: String, CaseIterable {
 @main struct A96:App {
  @StateObject private var v=N83()
  @Environment(\.scenePhase) var phase
- var body:some Scene {WindowGroup {K52().environmentObject(v).preferredColorScheme(.dark).onChange(of:phase){_,p in if p == .active {v.resume()} else {v.rest()} }}}
+ var body:some Scene {WindowGroup {
+   WebsiteGate {
+    K52().environmentObject(v).preferredColorScheme(.dark).onChange(of:phase){_,p in if p == .active {v.resume()} else {v.rest()} }
+   }
+  }}
 }

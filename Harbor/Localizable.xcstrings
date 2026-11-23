@@ -1,3631 +1,3663 @@
 {
-  "sourceLanguage": "en",
-  "strings": {
-    "A quiet cast": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "A quiet cast"
+  "sourceLanguage" : "en",
+  "strings" : {
+    "·" : {
+
+    },
+    "%@/%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@/%2$@"
+          }
+        }
+      }
+    },
+    "%@/%@ XP" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@/%2$@ XP"
+          }
+        }
+      }
+    },
+    "6–9" : {
+
+    },
+    "A bite!" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein Biss!"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ein ruhiger Wurf"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A bite!"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Un lancer paisible"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une touche !"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Um lançamento tranquilo"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uma fisgada!"
           }
         }
       }
     },
-    "Trophy room": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Trophy room"
+    "A little patience. The float will move when a fish is ready." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Etwas Geduld. Der Schwimmer bewegt sich, wenn ein Fisch anbeißt."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Trophäenraum"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A little patience. The float will move when a fish is ready."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Salle des trophées"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un peu de patience. Le flotteur bougera quand un poisson sera prêt."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sala de troféus"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Um pouco de paciência. A boia se move quando um peixe chega."
           }
         }
       }
     },
-    "Your tackle": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Your tackle"
+    "A moment to remember" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein besonderer Moment"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Deine Ausrüstung"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A moment to remember"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Votre équipement"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un instant mémorable"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Seu equipamento"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Um momento para lembrar"
           }
         }
       }
     },
-    "Discover the lakes": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Discover the lakes"
+    "A new season on the water" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine neue Saison am Wasser"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Entdecke die Seen"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A new season on the water"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Découvrir les lacs"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une nouvelle saison au lac"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Descubra os lagos"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uma nova temporada na água"
           }
         }
       }
     },
-    "Coins": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Coins"
+    "A quiet cast" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein ruhiger Wurf"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Münzen"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A quiet cast"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pièces"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un lancer paisible"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Moedas"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Um lançamento tranquilo"
           }
         }
       }
     },
-    "Settings": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Settings"
+    "A simple lake companion" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein einfacher Begleiter am See"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Einstellungen"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A simple lake companion"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Réglages"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un compagnon simple au lac"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ajustes"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uma companhia simples no lago"
           }
         }
       }
     },
-    "Fish": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fish"
+    "Add Big Catch widgets from your Home Screen or Lock Screen. They show local bite hours, lake progress and your collection without a connection." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Füge Big Catch-Widgets zum Home- oder Sperrbildschirm hinzu. Sie zeigen lokale Beißzeiten, Seenfortschritt und deine Sammlung ohne Verbindung."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Angeln"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Big Catch widgets from your Home Screen or Lock Screen. They show local bite hours, lake progress and your collection without a connection."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pêcher"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajoutez les widgets Big Catch à l’écran d’accueil ou verrouillé. Ils affichent les heures de pêche, la progression et la collection hors ligne."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pescar"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adicione widgets do Big Catch na tela de início ou bloqueada. Eles mostram horários, progresso e coleção offline."
           }
         }
       }
     },
-    "Trophies": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Trophies"
+    "All lakes discovered" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle Seen entdeckt"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Trophäen"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All lakes discovered"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Trophées"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tous les lacs découverts"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Troféus"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todos os lagos descobertos"
           }
         }
       }
     },
-    "Tackle": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tackle"
+    "Allowed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erlaubt"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ausrüstung"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allowed"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Équipement"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autorisé"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Equipamento"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permitido"
           }
         }
       }
     },
-    "Lakes": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lakes"
+    "Another quiet chance" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine neue ruhige Gelegenheit"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Seen"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Another quiet chance"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lacs"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une nouvelle occasion paisible"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lagos"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uma nova chance tranquila"
           }
         }
       }
     },
-    "Your waterside supplies": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Your waterside supplies"
+    "Arctic char" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seesaibling"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Dein Vorrat am Wasser"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arctic char"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vos provisions au bord de l’eau"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Omble chevalier"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Seus suprimentos à beira d’água"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salvelino-ártico"
           }
         }
       }
     },
-    "Coins gathered while you were away": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Coins gathered while you were away"
+    "Balanced for a first cast" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausgewogen für den ersten Wurf"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Während deiner Abwesenheit gesammelte Münzen"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Balanced for a first cast"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pièces recueillies en votre absence"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Équilibrée pour débuter"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Moedas reunidas enquanto você estava fora"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Equilibrada para começar"
           }
         }
       }
     },
-    "Dismiss": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Dismiss"
+    "Best" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bester Fang"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Schließen"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Best"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fermer"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Record"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fechar"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recorde"
           }
         }
       }
+    },
+    "Big Catch" : {
+
+    },
+    "BIG CATCH" : {
+
     },
-    "Daily bite window": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Daily bite window"
+    "Bite hours, lake progress and your trophy room." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beißzeiten, Seenfortschritt und dein Trophäenraum."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tägliche Beißzeit"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bite hours, lake progress and your trophy room."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Heures de pêche du jour"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heures de pêche, progression des lacs et trophées."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Horário de pesca do dia"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Horários de pesca, progresso dos lagos e troféus."
           }
         }
       }
     },
-    "Game conditions follow your device clock.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Game conditions follow your device clock."
+    "Bluegill" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blauer Sonnenbarsch"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Die Spielbedingungen folgen deiner Gerätezeit."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bluegill"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Les conditions du jeu suivent l’heure de votre appareil."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crapet arlequin"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "As condições do jogo seguem o relógio do aparelho."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peixe-sol azul"
           }
         }
       }
     },
-    "OFFLINE LAKE": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OFFLINE LAKE"
+    "Bluewater Reach" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blauwassersee"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OFFLINE-SEE"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bluewater Reach"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "LAC HORS LIGNE"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lac d’Azur"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "LAGO OFFLINE"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lago Azul"
           }
         }
       }
     },
-    "Lively water": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lively water"
+    "Bring the line in" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Angel einholen"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lebhaftes Wasser"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bring the line in"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Eaux animées"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ramener la ligne"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Águas animadas"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recolher a linha"
           }
         }
       }
     },
-    "Gentle water": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gentle water"
+    "Calm water" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ruhiges Wasser"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ruhiges Wasser"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calm water"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Eaux paisibles"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eau calme"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Águas tranquilas"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Água calma"
           }
         }
       }
     },
-    "Find your rhythm. Let the water lead.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Find your rhythm. Let the water lead."
+    "Calm water reduces motion and shortens reeling time." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ruhiges Wasser reduziert Bewegung und verkürzt das Einholen."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Finde deinen Rhythmus. Folge dem Wasser."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calm water reduces motion and shortens reeling time."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Trouvez votre rythme. Suivez le fil de l’eau."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’eau calme réduit les animations et le temps de récupération."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Encontre seu ritmo. Siga a água."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Água calma reduz o movimento e o tempo de recolhimento."
           }
         }
       }
     },
-    "A bite!": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "A bite!"
+    "Cancel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abbrechen"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ein Biss!"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Une touche !"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annuler"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Uma fisgada!"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
           }
         }
       }
     },
-    "Ready when you are": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ready when you are"
+    "Cast again" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erneut auswerfen"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Bereit, wenn du es bist"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cast again"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "À votre rythme"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Relancer"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Quando você quiser"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lançar novamente"
           }
         }
       }
     },
-    "Waiting for a ripple": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Waiting for a ripple"
+    "Cast into the lake, then watch for a bite. Every fish returns to the water." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wirf aus und warte auf einen Biss. Jeder Fisch kommt zurück ins Wasser."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Warten auf eine Welle"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cast into the lake, then watch for a bite. Every fish returns to the water."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "En attendant une vague"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lancez votre ligne, puis guettez une touche. Chaque poisson retourne à l’eau."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Esperando uma ondulação"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lance a linha e espere uma fisgada. Todo peixe volta para a água."
           }
         }
       }
     },
-    "Time to set the hook": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Time to set the hook"
+    "Cast your first line to begin your collection." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wirf zum ersten Mal aus und beginne deine Sammlung."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Zeit zum Anhieb"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cast your first line to begin your collection."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "C’est le moment de ferrer"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lancez votre première ligne pour commencer votre collection."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Hora de fisgar"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lance sua primeira linha para começar a coleção."
           }
         }
       }
     },
-    "Keep a gentle rhythm": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Keep a gentle rhythm"
+    "Cast your line" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wirf die Angel aus"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Halte einen sanften Rhythmus"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cast your line"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gardez un rythme doux"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lancer la ligne"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mantenha um ritmo suave"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lançar a linha"
           }
         }
       }
     },
-    "A moment to remember": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "A moment to remember"
+    "Catch twelve fish" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fange zwölf Fische"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ein besonderer Moment"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Catch twelve fish"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Un instant mémorable"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Capturer douze poissons"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Um momento para lembrar"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Capture doze peixes"
           }
         }
       }
     },
-    "Another quiet chance": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Another quiet chance"
+    "Catches" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fänge"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Eine neue ruhige Gelegenheit"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Catches"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Une nouvelle occasion paisible"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prises"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Uma nova chance tranquila"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Capturas"
           }
         }
       }
     },
-    "Cast into the lake, then watch for a bite. Every fish returns to the water.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cast into the lake, then watch for a bite. Every fish returns to the water."
+    "Caught" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gefangen"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Wirf aus und warte auf einen Biss. Jeder Fisch kommt zurück ins Wasser."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caught"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lancez votre ligne, puis guettez une touche. Chaque poisson retourne à l’eau."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Capturés"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lance a linha e espere uma fisgada. Todo peixe volta para a água."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Capturados"
           }
         }
       }
     },
-    "Cast your line": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cast your line"
+    "Channel catfish" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kanalwels"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Wirf die Angel aus"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Channel catfish"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lancer la ligne"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barbue de rivière"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lançar a linha"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bagre-de-canal"
           }
         }
       }
     },
-    "A little patience. The float will move when a fish is ready.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "A little patience. The float will move when a fish is ready."
+    "Choose daily bite-window reminders and a monthly season note. Notifications are optional and stay on this device." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wähle tägliche Beißzeiten und eine monatliche Saisonnotiz. Mitteilungen sind freiwillig und bleiben auf diesem Gerät."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Etwas Geduld. Der Schwimmer bewegt sich, wenn ein Fisch anbeißt."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose daily bite-window reminders and a monthly season note. Notifications are optional and stay on this device."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Un peu de patience. Le flotteur bougera quand un poisson sera prêt."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choisissez des rappels quotidiens et une note de saison mensuelle. Ils sont facultatifs et restent sur cet appareil."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Um pouco de paciência. A boia se move quando um peixe chega."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escolha lembretes diários e um aviso mensal da temporada. São opcionais e ficam neste aparelho."
           }
         }
       }
     },
-    "Bring the line in": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Bring the line in"
+    "Coins" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Münzen"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Angel einholen"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coins"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ramener la ligne"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pièces"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Recolher a linha"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moedas"
           }
         }
       }
     },
-    "Tap to hook the fish before it swims away.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tap to hook the fish before it swims away."
+    "Coins gathered while you were away" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Während deiner Abwesenheit gesammelte Münzen"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tippe für den Anhieb, bevor der Fisch wegschwimmt."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coins gathered while you were away"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Touchez pour ferrer le poisson avant qu’il ne s’éloigne."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pièces recueillies en votre absence"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Toque para fisgar antes que o peixe vá embora."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moedas reunidas enquanto você estava fora"
           }
         }
       }
     },
-    "Set the hook": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Set the hook"
+    "Collected badges" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gesammelte Abzeichen"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Anhieb setzen"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collected badges"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ferrer"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Badges obtenus"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fisgar"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distintivos reunidos"
           }
         }
       }
     },
-    "Line tension": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Line tension"
+    "Common carp" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Karpfen"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Schnurspannung"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Common carp"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tension de la ligne"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Carpe commune"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tensão da linha"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Carpa-comum"
           }
         }
       }
     },
-    "Reel to raise tension. Ease to lower it. Keep tension between 22% and 82%.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Reel to raise tension. Ease to lower it. Keep tension between 22% and 82%."
+    "Copper Cove" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kupferbucht"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Hole ein, um die Spannung zu erhöhen. Lass locker, um sie zu senken. Halte die Spannung zwischen 22 % und 82 %."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copper Cove"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Moulinez pour tendre la ligne. Relâchez pour la détendre. Gardez la tension entre 22 % et 82 %."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anse Cuivrée"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Recolha para aumentar a tensão. Solte para diminuir. Mantenha a tensão entre 22% e 82%."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enseada de Cobre"
           }
         }
       }
     },
-    "Reel gently": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Reel gently"
+    "Copper spoon" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kupferblinker"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sanft einholen"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copper spoon"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mouliner doucement"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuillère cuivrée"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Recolher suavemente"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Colher de cobre"
           }
         }
       }
     },
-    "Ease": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ease"
+    "Could not schedule reminders. Try again." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erinnerungen konnten nicht geplant werden. Versuche es erneut."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lockern"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not schedule reminders. Try again."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Relâcher"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible de programmer les rappels. Réessayez."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Soltar"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não foi possível agendar lembretes. Tente novamente."
           }
         }
       }
     },
-    "Recorded in your trophy room. Released with care.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Recorded in your trophy room. Released with care."
+    "Daily bite window" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tägliche Beißzeit"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Im Trophäenraum erfasst. Vorsichtig freigelassen."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daily bite window"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Inscrit dans vos trophées. Relâché avec soin."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heures de pêche du jour"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Registrado na sala de troféus. Devolvido com cuidado."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Horário de pesca do dia"
           }
         }
       }
     },
-    "Cast again": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cast again"
+    "Disabled in system settings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In Systemeinstellungen deaktiviert"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Erneut auswerfen"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disabled in system settings"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Relancer"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Désactivé dans les réglages système"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lançar novamente"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desativado nos ajustes do sistema"
           }
         }
       }
     },
-    "The fish swam away. Cast again.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "The fish swam away. Cast again."
+    "Discover six species" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entdecke sechs Arten"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Der Fisch ist weggeschwommen. Wirf erneut aus."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discover six species"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Le poisson s’est éloigné. Relancez votre ligne."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Découvrir six espèces"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "O peixe foi embora. Lance novamente."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descubra seis espécies"
           }
         }
       }
     },
-    "The line went loose or too tight. Try a gentler rhythm.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "The line went loose or too tight. Try a gentler rhythm."
+    "Discover the lakes" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entdecke die Seen"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Die Schnur war zu locker oder zu straff. Versuche einen sanfteren Rhythmus."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discover the lakes"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "La ligne était trop lâche ou trop tendue. Essayez un rythme plus doux."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Découvrir les lacs"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "A linha ficou frouxa ou tensa demais. Tente um ritmo mais suave."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descubra os lagos"
           }
         }
       }
     },
-    "Species": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Species"
+    "Dismiss" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schließen"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Arten"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dismiss"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Espèces"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fermer"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Espécies"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fechar"
           }
         }
       }
     },
-    "Catches": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Catches"
+    "Done" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fertig"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fänge"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Prises"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terminé"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Capturas"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Concluir"
           }
         }
       }
     },
-    "Your collection": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Your collection"
+    "Ease" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lockern"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Deine Sammlung"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ease"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Votre collection"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Relâcher"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sua coleção"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Soltar"
           }
         }
       }
     },
-    "Every catch is recorded here. Explore new lakes to find all twelve species.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Every catch is recorded here. Explore new lakes to find all twelve species."
+    "Equip" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausrüsten"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Jeder Fang wird hier erfasst. Entdecke neue Seen, um alle zwölf Arten zu finden."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Equip"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Chaque prise est inscrite ici. Explorez les lacs pour découvrir les douze espèces."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Équiper"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cada captura fica registrada aqui. Explore os lagos para encontrar as doze espécies."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Equipar"
           }
         }
       }
     },
-    "Best": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Best"
+    "Equipped" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausgerüstet"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Bester Fang"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Equipped"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Record"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Équipé"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Recorde"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Em uso"
           }
         }
       }
     },
-    "Caught": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Caught"
+    "Erase local progress" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lokalen Fortschritt löschen"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gefangen"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erase local progress"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Capturés"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Effacer la progression locale"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Capturados"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apagar progresso local"
           }
         }
       }
     },
-    "Not discovered yet": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Not discovered yet"
+    "Erase your collection, tackle and coins?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sammlung, Ausrüstung und Münzen löschen?"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Noch nicht entdeckt"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erase your collection, tackle and coins?"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pas encore découvert"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Effacer votre collection, équipement et pièces ?"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ainda não descoberto"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apagar coleção, equipamento e moedas?"
           }
         }
       }
     },
-    "Recent catches": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Recent catches"
+    "Every catch is recorded here. Explore new lakes to find all twelve species." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeder Fang wird hier erfasst. Entdecke neue Seen, um alle zwölf Arten zu finden."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Letzte Fänge"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every catch is recorded here. Explore new lakes to find all twelve species."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Prises récentes"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chaque prise est inscrite ici. Explorez les lacs pour découvrir les douze espèces."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Capturas recentes"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cada captura fica registrada aqui. Explore os lagos para encontrar as doze espécies."
           }
         }
       }
     },
-    "Season on the water": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Season on the water"
+    "Exploration" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erkundung"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Saison am Wasser"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exploration"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Saison au bord de l’eau"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exploration"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Temporada na água"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exploração"
           }
         }
       }
     },
-    "Monthly goals award keepsake badges only. New goals begin each calendar month.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Monthly goals award keepsake badges only. New goals begin each calendar month."
+    "Explore by catching fish and gathering idle experience. Lake access is permanent." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erkunde durch Fänge und passive Erfahrung. Freigeschaltete Seen bleiben zugänglich."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Monatsziele vergeben nur Erinnerungsabzeichen. Neue Ziele beginnen jeden Kalendermonat."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explore by catching fish and gathering idle experience. Lake access is permanent."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Les objectifs mensuels offrent uniquement des badges souvenirs. Ils se renouvellent chaque mois civil."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explorez en pêchant et en recueillant de l’expérience au repos. L’accès aux lacs est permanent."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "As metas mensais oferecem apenas distintivos de lembrança. Novas metas começam a cada mês."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explore pescando e reunindo experiência durante a ausência. O acesso aos lagos é permanente."
           }
         }
       }
     },
-    "Catch twelve fish": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Catch twelve fish"
+    "Find your rhythm. Let the water lead." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finde deinen Rhythmus. Folge dem Wasser."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fange zwölf Fische"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Find your rhythm. Let the water lead."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Capturer douze poissons"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trouvez votre rythme. Suivez le fil de l’eau."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Capture doze peixes"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Encontre seu ritmo. Siga a água."
           }
         }
       }
     },
-    "Discover six species": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Discover six species"
+    "Fish" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Angeln"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Entdecke sechs Arten"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fish"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Découvrir six espèces"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pêcher"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Descubra seis espécies"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pescar"
           }
         }
       }
     },
-    "Record 30 kg this month": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Record 30 kg this month"
+    "Fish this lake" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diesen See wählen"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Erfasse diesen Monat 30 kg"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fish this lake"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Inscrire 30 kg ce mois-ci"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choisir ce lac"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Registre 30 kg neste mês"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pescar neste lago"
           }
         }
       }
     },
-    "Collected badges": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Collected badges"
+    "Fishing here" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hier angeln"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gesammelte Abzeichen"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fishing here"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Badges obtenus"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pêcher ici"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Distintivos reunidos"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pescando aqui"
           }
         }
       }
     },
-    "Good tools, quieter water.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Good tools, quieter water."
+    "Four waters. Twelve discoveries." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vier Gewässer. Zwölf Entdeckungen."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gute Ausrüstung, ruhiges Wasser."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Four waters. Twelve discoveries."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "De bons outils, des eaux paisibles."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quatre lacs. Douze découvertes."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Boas ferramentas, águas tranquilas."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quatro lagos. Doze descobertas."
           }
         }
       }
     },
-    "Use coins earned by fishing and idle supplies. Everything here is earned through play.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Use coins earned by fishing and idle supplies. Everything here is earned through play."
+    "Fresh collection goals are ready. Earn keepsake badges at your own pace." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neue Sammelziele warten. Verdiene Erinnerungsabzeichen in deinem Tempo."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Nutze Münzen vom Angeln und aus Vorräten. Alles hier wird durch Spielen verdient."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fresh collection goals are ready. Earn keepsake badges at your own pace."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Utilisez les pièces de la pêche et des provisions. Tout se gagne en jouant."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De nouveaux objectifs vous attendent. Obtenez des badges souvenirs à votre rythme."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Use moedas da pesca e dos suprimentos. Tudo é obtido jogando."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Novas metas de coleção estão prontas. Ganhe distintivos no seu ritmo."
           }
         }
       }
     },
-    "Rods": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Rods"
+    "Game conditions follow your device clock." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Spielbedingungen folgen deiner Gerätezeit."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ruten"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Game conditions follow your device clock."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cannes"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les conditions du jeu suivent l’heure de votre appareil."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Varas"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "As condições do jogo seguem o relógio do aparelho."
           }
         }
       }
     },
-    "Lures": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lures"
+    "Gentle haptics" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sanfte Haptik"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Köder"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gentle haptics"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Leurres"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vibrations douces"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Iscas"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vibrações suaves"
           }
         }
       }
     },
-    "Equipped": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Equipped"
+    "Gentle water" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ruhiges Wasser"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ausgerüstet"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gentle water"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Équipé"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eaux paisibles"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Em uso"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Águas tranquilas"
           }
         }
       }
     },
-    "Equip": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Equip"
+    "Good tools, quieter water." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gute Ausrüstung, ruhiges Wasser."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ausrüsten"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Good tools, quieter water."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Équiper"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De bons outils, des eaux paisibles."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Equipar"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Boas ferramentas, águas tranquilas."
           }
         }
       }
     },
-    "Balanced for a first cast": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Balanced for a first cast"
+    "Idle supplies accrue every five minutes, up to eight hours away. Fish are only recorded after you reel them in." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vorräte sammeln sich alle fünf Minuten bis zu acht Stunden an. Fische werden erst nach dem Einholen erfasst."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ausgewogen für den ersten Wurf"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idle supplies accrue every five minutes, up to eight hours away. Fish are only recorded after you reel them in."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Équilibrée pour débuter"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les provisions s’accumulent toutes les cinq minutes, jusqu’à huit heures. Les poissons sont inscrits après leur capture."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Equilibrada para começar"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suprimentos se acumulam a cada cinco minutos, por até oito horas. Peixes só são registrados após a captura."
           }
         }
       }
     },
-    "Smoother line tension": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Smoother line tension"
+    "Keep a gentle rhythm" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Halte einen sanften Rhythmus"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sanftere Schnurspannung"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep a gentle rhythm"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Une tension plus douce"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gardez un rythme doux"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tensão de linha mais suave"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mantenha um ritmo suave"
           }
         }
       }
     },
-    "The most forgiving tension": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "The most forgiving tension"
+    "Lake salmon" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seelachs aus Binnengewässern"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Besonders gutmütige Spannung"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lake salmon"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "La tension la plus souple"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saumon de lac"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "A tensão mais tolerante"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salmão de lago"
           }
         }
       }
     },
-    "A simple lake companion": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "A simple lake companion"
+    "Lakes" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seen"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ein einfacher Begleiter am See"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lakes"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Un compagnon simple au lac"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lacs"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Uma companhia simples no lago"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lagos"
           }
         }
       }
     },
-    "More uncommon species": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "More uncommon species"
+    "Largemouth bass" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forellenbarsch"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mehr seltene Arten"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Largemouth bass"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Plus d’espèces peu communes"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Achigan à grande bouche"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mais espécies incomuns"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Achigã"
           }
         }
       }
     },
-    "The strongest rare-species attraction": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "The strongest rare-species attraction"
+    "Line tension" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schnurspannung"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lockt seltene Arten am stärksten an"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Line tension"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "L’attrait maximal pour les espèces rares"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tension de la ligne"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Maior atração de espécies raras"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tensão da linha"
           }
         }
       }
     },
-    "Four waters. Twelve discoveries.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Four waters. Twelve discoveries."
+    "Lively water" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lebhaftes Wasser"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vier Gewässer. Zwölf Entdeckungen."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lively water"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Quatre lacs. Douze découvertes."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eaux animées"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Quatro lagos. Doze descobertas."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Águas animadas"
           }
         }
       }
     },
-    "Explore by catching fish and gathering idle experience. Lake access is permanent.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Explore by catching fish and gathering idle experience. Lake access is permanent."
+    "Local reminders" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lokale Erinnerungen"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Erkunde durch Fänge und passive Erfahrung. Freigeschaltete Seen bleiben zugänglich."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Local reminders"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Explorez en pêchant et en recueillant de l’expérience au repos. L’accès aux lacs est permanent."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rappels locaux"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Explore pescando e reunindo experiência durante a ausência. O acesso aos lagos é permanente."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lembretes locais"
           }
         }
       }
     },
-    "Fishing here": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fishing here"
+    "Lures" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Köder"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Hier angeln"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lures"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pêcher ici"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leurres"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pescando aqui"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iscas"
           }
         }
       }
     },
-    "Fish this lake": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fish this lake"
+    "Make yourself comfortable" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mach es dir bequem"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Diesen See wählen"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Make yourself comfortable"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Choisir ce lac"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Installez-vous"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pescar neste lago"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fique à vontade"
           }
         }
       }
     },
-    "Exploration": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Exploration"
+    "Metric weights" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metrische Gewichte"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Erkundung"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metric weights"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Exploration"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poids métriques"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Exploração"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pesos em quilogramas"
           }
         }
       }
     },
-    "Make yourself comfortable": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Make yourself comfortable"
+    "Monthly goals award keepsake badges only. New goals begin each calendar month." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monatsziele vergeben nur Erinnerungsabzeichen. Neue Ziele beginnen jeden Kalendermonat."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mach es dir bequem"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monthly goals award keepsake badges only. New goals begin each calendar month."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Installez-vous"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les objectifs mensuels offrent uniquement des badges souvenirs. Ils se renouvellent chaque mois civil."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fique à vontade"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "As metas mensais oferecem apenas distintivos de lembrança. Novas metas começam a cada mês."
           }
         }
       }
     },
-    "Metric weights": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Metric weights"
+    "Moon lure" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mondköder"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Metrische Gewichte"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moon lure"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Poids métriques"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leurre lunaire"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pesos em quilogramas"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Isca da lua"
           }
         }
       }
     },
-    "Gentle haptics": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gentle haptics"
+    "Moonpine Lake" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mondkiefernsee"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sanfte Haptik"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moonpine Lake"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vibrations douces"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lac des Pins lunaires"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vibrações suaves"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lago dos Pinheiros"
           }
         }
       }
     },
-    "Calm water": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Calm water"
+    "More uncommon species" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mehr seltene Arten"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ruhiges Wasser"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "More uncommon species"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Eau calme"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plus d’espèces peu communes"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Água calma"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mais espécies incomuns"
           }
         }
       }
     },
-    "Calm water reduces motion and shortens reeling time.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Calm water reduces motion and shortens reeling time."
+    "Muskellunge" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Muskellunge"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ruhiges Wasser reduziert Bewegung und verkürzt das Einholen."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Muskellunge"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "L’eau calme réduit les animations et le temps de récupération."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maskinongé"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Água calma reduz o movimento e o tempo de recolhimento."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Muskellunge"
           }
         }
       }
     },
-    "Local reminders": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Local reminders"
+    "No accounts, analytics, tracking, purchases or advertising. Your collection stays on this device and its widget group. Deleting the app removes local progress; system backups follow your device settings." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Konten, Analysen, Nachverfolgung, Käufe oder Werbung. Deine Sammlung bleibt auf diesem Gerät und in seiner Widget-Gruppe. Beim Löschen der App geht lokaler Fortschritt verloren; Systemsicherungen folgen den Geräteeinstellungen."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lokale Erinnerungen"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No accounts, analytics, tracking, purchases or advertising. Your collection stays on this device and its widget group. Deleting the app removes local progress; system backups follow your device settings."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Rappels locaux"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sans compte, analyse, suivi, achat ni publicité. Votre collection reste sur cet appareil et son groupe de widgets. Supprimer l’app efface la progression locale ; les sauvegardes suivent les réglages de l’appareil."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lembretes locais"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sem contas, análise, rastreamento, compras ou anúncios. Sua coleção fica neste aparelho e no grupo de widgets. Excluir o app remove o progresso local; os backups seguem os ajustes do aparelho."
           }
         }
       }
     },
-    "Choose daily bite-window reminders and a monthly season note. Notifications are optional and stay on this device.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Choose daily bite-window reminders and a monthly season note. Notifications are optional and stay on this device."
+    "Northern pike" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hecht"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Wähle tägliche Beißzeiten und eine monatliche Saisonnotiz. Mitteilungen sind freiwillig und bleiben auf diesem Gerät."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Northern pike"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Choisissez des rappels quotidiens et une note de saison mensuelle. Ils sont facultatifs et restent sur cet appareil."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brochet"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Escolha lembretes diários e um aviso mensal da temporada. São opcionais e ficam neste aparelho."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lúcio"
           }
         }
       }
     },
-    "Remind me": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Remind me"
+    "Not discovered yet" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Noch nicht entdeckt"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Erinnern"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not discovered yet"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Me rappeler"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pas encore découvert"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Receber lembretes"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ainda não descoberto"
           }
         }
       }
     },
-    "Open system settings": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Open system settings"
+    "Not requested" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nicht angefragt"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Systemeinstellungen öffnen"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not requested"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ouvrir les réglages système"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non demandé"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Abrir ajustes do sistema"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não solicitado"
           }
         }
       }
     },
-    "Widgets": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Widgets"
+    "OFFLINE LAKE" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OFFLINE-SEE"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Widgets"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OFFLINE LAKE"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Widgets"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LAC HORS LIGNE"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Widgets"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LAGO OFFLINE"
           }
         }
       }
     },
-    "Add Big Catch widgets from your Home Screen or Lock Screen. They show local bite hours, lake progress and your collection without a connection.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Add Big Catch widgets from your Home Screen or Lock Screen. They show local bite hours, lake progress and your collection without a connection."
+    "Open system settings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Systemeinstellungen öffnen"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Füge Big Catch-Widgets zum Home- oder Sperrbildschirm hinzu. Sie zeigen lokale Beißzeiten, Seenfortschritt und deine Sammlung ohne Verbindung."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open system settings"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ajoutez les widgets Big Catch à l’écran d’accueil ou verrouillé. Ils affichent les heures de pêche, la progression et la collection hors ligne."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvrir les réglages système"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Adicione widgets do Big Catch na tela de início ou bloqueada. Eles mostram horários, progresso e coleção offline."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir ajustes do sistema"
           }
         }
       }
     },
-    "Your data": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Your data"
+    "Perch" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flussbarsch"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Deine Daten"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perch"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vos données"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perche"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Seus dados"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perca"
           }
         }
       }
     },
-    "No accounts, analytics, tracking, purchases or advertising. Your collection stays on this device and its widget group. Deleting the app removes local progress; system backups follow your device settings.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No accounts, analytics, tracking, purchases or advertising. Your collection stays on this device and its widget group. Deleting the app removes local progress; system backups follow your device settings."
+    "Preview widgets" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widgets ansehen"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Keine Konten, Analysen, Nachverfolgung, Käufe oder Werbung. Deine Sammlung bleibt auf diesem Gerät und in seiner Widget-Gruppe. Beim Löschen der App geht lokaler Fortschritt verloren; Systemsicherungen folgen den Geräteeinstellungen."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preview widgets"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sans compte, analyse, suivi, achat ni publicité. Votre collection reste sur cet appareil et son groupe de widgets. Supprimer l’app efface la progression locale ; les sauvegardes suivent les réglages de l’appareil."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aperçu des widgets"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sem contas, análise, rastreamento, compras ou anúncios. Sua coleção fica neste aparelho e no grupo de widgets. Excluir o app remove o progresso local; os backups seguem os ajustes do aparelho."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visualizar widgets"
           }
         }
       }
     },
-    "Idle supplies accrue every five minutes, up to eight hours away. Fish are only recorded after you reel them in.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Idle supplies accrue every five minutes, up to eight hours away. Fish are only recorded after you reel them in."
+    "Rainbow trout" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Regenbogenforelle"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vorräte sammeln sich alle fünf Minuten bis zu acht Stunden an. Fische werden erst nach dem Einholen erfasst."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rainbow trout"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Les provisions s’accumulent toutes les cinq minutes, jusqu’à huit heures. Les poissons sont inscrits après leur capture."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Truite arc-en-ciel"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Suprimentos se acumulam a cada cinco minutos, por até oito horas. Peixes só são registrados após a captura."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Truta-arco-íris"
           }
         }
       }
     },
-    "Erase local progress": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Erase local progress"
+    "Ready when you are" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bereit, wenn du es bist"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lokalen Fortschritt löschen"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ready when you are"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Effacer la progression locale"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À votre rythme"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Apagar progresso local"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quando você quiser"
           }
         }
       }
     },
-    "Done": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Done"
+    "Recent catches" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Letzte Fänge"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fertig"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recent catches"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Terminé"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prises récentes"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Concluir"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Capturas recentes"
           }
         }
       }
     },
-    "Erase your collection, tackle and coins?": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Erase your collection, tackle and coins?"
+    "Record 30 kg this month" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erfasse diesen Monat 30 kg"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sammlung, Ausrüstung und Münzen löschen?"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Record 30 kg this month"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Effacer votre collection, équipement et pièces ?"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inscrire 30 kg ce mois-ci"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Apagar coleção, equipamento e moedas?"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registre 30 kg neste mês"
           }
         }
       }
     },
-    "Cancel": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cancel"
+    "Recorded in your trophy room. Released with care." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Im Trophäenraum erfasst. Vorsichtig freigelassen."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Abbrechen"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recorded in your trophy room. Released with care."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Annuler"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inscrit dans vos trophées. Relâché avec soin."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cancelar"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registrado na sala de troféus. Devolvido com cuidado."
           }
         }
       }
     },
-    "This cannot be undone.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "This cannot be undone."
+    "Reed lure" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schilfköder"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Dies kann nicht rückgängig gemacht werden."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reed lure"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cette action est irréversible."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leurre des roseaux"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Esta ação não pode ser desfeita."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Isca dos juncos"
           }
         }
       }
     },
-    "Disabled in system settings": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Disabled in system settings"
+    "Reel gently" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sanft einholen"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "In Systemeinstellungen deaktiviert"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reel gently"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Désactivé dans les réglages système"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mouliner doucement"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Desativado nos ajustes do sistema"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recolher suavemente"
           }
         }
       }
     },
-    "Allowed": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Allowed"
+    "Reel to raise tension. Ease to lower it. Keep tension between 22% and 82%." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hole ein, um die Spannung zu erhöhen. Lass locker, um sie zu senken. Halte die Spannung zwischen 22 % und 82 %."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Erlaubt"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reel to raise tension. Ease to lower it. Keep tension between 22% and 82%."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Autorisé"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moulinez pour tendre la ligne. Relâchez pour la détendre. Gardez la tension entre 22 % et 82 %."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Permitido"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recolha para aumentar a tensão. Solte para diminuir. Mantenha a tensão entre 22% e 82%."
           }
         }
       }
     },
-    "Not requested": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Not requested"
+    "Remind me" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erinnern"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Nicht angefragt"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remind me"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Non demandé"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Me rappeler"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Não solicitado"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Receber lembretes"
           }
         }
       }
     },
-    "Could not schedule reminders. Try again.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Could not schedule reminders. Try again."
+    "River rod" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flussrute"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Erinnerungen konnten nicht geplant werden. Versuche es erneut."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "River rod"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Impossible de programmer les rappels. Réessayez."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canne de rivière"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Não foi possível agendar lembretes. Tente novamente."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vara de rio"
           }
         }
       }
     },
-    "The lake is waking up": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "The lake is waking up"
+    "Rods" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ruten"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Der See erwacht"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rods"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Le lac s’éveille"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cannes"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "O lago está despertando"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varas"
           }
         }
       }
     },
-    "Your daily bite window is open. Take a quiet cast.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Your daily bite window is open. Take a quiet cast."
+    "Season on the water" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saison am Wasser"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Deine tägliche Beißzeit beginnt. Zeit für einen ruhigen Wurf."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Season on the water"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Votre créneau de pêche est ouvert. Lancez votre ligne en douceur."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saison au bord de l’eau"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Seu horário de pesca começou. Faça um lançamento tranquilo."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Temporada na água"
           }
         }
       }
     },
-    "A new season on the water": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "A new season on the water"
+    "Set the hook" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anhieb setzen"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Eine neue Saison am Wasser"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set the hook"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Une nouvelle saison au lac"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ferrer"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Uma nova temporada na água"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fisgar"
           }
         }
       }
     },
-    "Fresh collection goals are ready. Earn keepsake badges at your own pace.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fresh collection goals are ready. Earn keepsake badges at your own pace."
+    "Settings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Neue Sammelziele warten. Verdiene Erinnerungsabzeichen in deinem Tempo."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "De nouveaux objectifs vous attendent. Obtenez des badges souvenirs à votre rythme."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réglages"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Novas metas de coleção estão prontas. Ganhe distintivos no seu ritmo."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes"
           }
         }
       }
     },
-    "All lakes discovered": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "All lakes discovered"
+    "Smoother line tension" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sanftere Schnurspannung"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Alle Seen entdeckt"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smoother line tension"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tous les lacs découverts"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une tension plus douce"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Todos os lagos descobertos"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tensão de linha mais suave"
           }
         }
       }
     },
-    "Your next lake": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Your next lake"
+    "Species" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arten"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Dein nächster See"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Species"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Votre prochain lac"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Espèces"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Seu próximo lago"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Espécies"
           }
         }
       }
     },
-    "Cast your first line to begin your collection.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cast your first line to begin your collection."
+    "Summit rod" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gipfelrute"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Wirf zum ersten Mal aus und beginne deine Sammlung."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Summit rod"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lancez votre première ligne pour commencer votre collection."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canne des sommets"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lance sua primeira linha para começar a coleção."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vara dos montes"
           }
         }
       }
     },
-    "Bite hours, lake progress and your trophy room.": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Bite hours, lake progress and your trophy room."
+    "Sunfish" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sonnenbarsch"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Beißzeiten, Seenfortschritt und dein Trophäenraum."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sunfish"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Heures de pêche, progression des lacs et trophées."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crapet-soleil"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Horários de pesca, progresso dos lagos e troféus."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peixe-sol"
           }
         }
       }
     },
-    "Willow Lake": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Willow Lake"
+    "Tackle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausrüstung"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Weidensee"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tackle"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lac des Saules"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Équipement"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lago dos Salgueiros"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Equipamento"
           }
         }
       }
     },
-    "Bluewater Reach": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Bluewater Reach"
+    "Tap to hook the fish before it swims away." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tippe für den Anhieb, bevor der Fisch wegschwimmt."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Blauwassersee"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap to hook the fish before it swims away."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lac d’Azur"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Touchez pour ferrer le poisson avant qu’il ne s’éloigne."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lago Azul"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toque para fisgar antes que o peixe vá embora."
           }
         }
       }
     },
-    "Copper Cove": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Copper Cove"
+    "The fish swam away. Cast again." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Fisch ist weggeschwommen. Wirf erneut aus."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kupferbucht"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The fish swam away. Cast again."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Anse Cuivrée"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le poisson s’est éloigné. Relancez votre ligne."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Enseada de Cobre"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O peixe foi embora. Lance novamente."
           }
         }
       }
     },
-    "Moonpine Lake": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Moonpine Lake"
+    "The lake is waking up" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der See erwacht"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mondkiefernsee"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The lake is waking up"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lac des Pins lunaires"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le lac s’éveille"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lago dos Pinheiros"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O lago está despertando"
           }
         }
       }
     },
-    "Willow rod": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Willow rod"
+    "The line went loose or too tight. Try a gentler rhythm." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Schnur war zu locker oder zu straff. Versuche einen sanfteren Rhythmus."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Weidenrute"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The line went loose or too tight. Try a gentler rhythm."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Canne des Saules"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La ligne était trop lâche ou trop tendue. Essayez un rythme plus doux."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vara de salgueiro"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A linha ficou frouxa ou tensa demais. Tente um ritmo mais suave."
           }
         }
       }
     },
-    "River rod": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "River rod"
+    "The most forgiving tension" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Besonders gutmütige Spannung"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Flussrute"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The most forgiving tension"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Canne de rivière"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La tension la plus souple"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vara de rio"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A tensão mais tolerante"
           }
         }
       }
     },
-    "Summit rod": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Summit rod"
+    "The strongest rare-species attraction" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lockt seltene Arten am stärksten an"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gipfelrute"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The strongest rare-species attraction"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Canne des sommets"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’attrait maximal pour les espèces rares"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vara dos montes"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maior atração de espécies raras"
           }
         }
       }
     },
-    "Copper spoon": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Copper spoon"
+    "This cannot be undone." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dies kann nicht rückgängig gemacht werden."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kupferblinker"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This cannot be undone."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cuillère cuivrée"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cette action est irréversible."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Colher de cobre"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta ação não pode ser desfeita."
           }
         }
       }
     },
-    "Reed lure": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Reed lure"
+    "Time to set the hook" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeit zum Anhieb"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Schilfköder"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time to set the hook"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Leurre des roseaux"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "C’est le moment de ferrer"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Isca dos juncos"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hora de fisgar"
           }
         }
       }
     },
-    "Moon lure": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Moon lure"
+    "Trophies" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trophäen"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Mondköder"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trophies"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Leurre lunaire"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trophées"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Isca da lua"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Troféus"
           }
         }
       }
     },
-    "Perch": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Perch"
+    "Trophy room" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trophäenraum"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Flussbarsch"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trophy room"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Perche"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salle des trophées"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Perca"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sala de troféus"
           }
         }
       }
     },
-    "Bluegill": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Bluegill"
+    "Use coins earned by fishing and idle supplies. Everything here is earned through play." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nutze Münzen vom Angeln und aus Vorräten. Alles hier wird durch Spielen verdient."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Blauer Sonnenbarsch"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use coins earned by fishing and idle supplies. Everything here is earned through play."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Crapet arlequin"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utilisez les pièces de la pêche et des provisions. Tout se gagne en jouant."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Peixe-sol azul"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use moedas da pesca e dos suprimentos. Tudo é obtido jogando."
           }
         }
       }
     },
-    "Largemouth bass": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Largemouth bass"
+    "Waiting for a ripple" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warten auf eine Welle"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Forellenbarsch"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Waiting for a ripple"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Achigan à grande bouche"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En attendant une vague"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Achigã"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esperando uma ondulação"
           }
         }
       }
     },
-    "Rainbow trout": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Rainbow trout"
+    "Walleye" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Glasaugenbarsch"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Regenbogenforelle"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Walleye"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Truite arc-en-ciel"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Doré jaune"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Truta-arco-íris"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lúcio-perca americano"
           }
         }
       }
     },
-    "Northern pike": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Northern pike"
+    "Widgets" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widgets"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Hecht"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widgets"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Brochet"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widgets"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lúcio"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widgets"
           }
         }
       }
     },
-    "Common carp": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Common carp"
+    "Willow Lake" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weidensee"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Karpfen"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Willow Lake"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Carpe commune"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lac des Saules"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Carpa-comum"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lago dos Salgueiros"
           }
         }
       }
     },
-    "Walleye": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Walleye"
+    "Willow rod" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weidenrute"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Glasaugenbarsch"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Willow rod"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Doré jaune"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canne des Saules"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lúcio-perca americano"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vara de salgueiro"
           }
         }
       }
     },
-    "Channel catfish": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Channel catfish"
+    "Your collection" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deine Sammlung"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kanalwels"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your collection"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Barbue de rivière"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Votre collection"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Bagre-de-canal"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sua coleção"
           }
         }
       }
     },
-    "Sunfish": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sunfish"
+    "Your daily bite window is open. Take a quiet cast." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deine tägliche Beißzeit beginnt. Zeit für einen ruhigen Wurf."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sonnenbarsch"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your daily bite window is open. Take a quiet cast."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Crapet-soleil"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Votre créneau de pêche est ouvert. Lancez votre ligne en douceur."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Peixe-sol"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seu horário de pesca começou. Faça um lançamento tranquilo."
           }
         }
       }
     },
-    "Lake salmon": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lake salmon"
+    "Your data" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deine Daten"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Seelachs aus Binnengewässern"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your data"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Saumon de lac"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vos données"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Salmão de lago"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seus dados"
           }
         }
       }
     },
-    "Arctic char": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Arctic char"
+    "Your next lake" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dein nächster See"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Seesaibling"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your next lake"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Omble chevalier"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Votre prochain lac"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Salvelino-ártico"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seu próximo lago"
           }
         }
       }
     },
-    "Muskellunge": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Muskellunge"
+    "Your tackle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deine Ausrüstung"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Muskellunge"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your tackle"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Maskinongé"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Votre équipement"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Muskellunge"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seu equipamento"
           }
         }
       }
     },
-    "Preview widgets": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Preview widgets"
+    "Your waterside supplies" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dein Vorrat am Wasser"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Widgets ansehen"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your waterside supplies"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aperçu des widgets"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vos provisions au bord de l’eau"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Visualizar widgets"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seus suprimentos à beira d’água"
           }
         }
       }
     }
   },
-  "version": "1.0"
+  "version" : "1.0"
 }

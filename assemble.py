@@ -14,7 +14,7 @@ strings={row[0]:{'extractionState':'manual','localizations':{lang:{'stringUnit':
 def plist(path,data):
  with (r/path).open('wb') as f:plistlib.dump(data,f,sort_keys=False)
 base={'CFBundleDevelopmentRegion':'en','CFBundleExecutable':'$(EXECUTABLE_NAME)','CFBundleIdentifier':'$(PRODUCT_BUNDLE_IDENTIFIER)','CFBundleInfoDictionaryVersion':'6.0','CFBundleName':'$(PRODUCT_NAME)','CFBundleShortVersionString':'$(MARKETING_VERSION)','CFBundleVersion':'$(CURRENT_PROJECT_VERSION)'}
-plist('Harbor/Info.plist',{**base,'CFBundleDisplayName':'Big Catch','CFBundlePackageType':'APPL','LSRequiresIPhoneOS':True,'UILaunchScreen':{'UIColorName':''},'UIApplicationSceneManifest':{'UIApplicationSupportsMultipleScenes':False},'UIBackgroundModes':['remote-notification'],'UISupportedInterfaceOrientations':['UIInterfaceOrientationPortrait','UIInterfaceOrientationLandscapeLeft','UIInterfaceOrientationLandscapeRight'],'UISupportedInterfaceOrientations~ipad':['UIInterfaceOrientationPortrait','UIInterfaceOrientationPortraitUpsideDown','UIInterfaceOrientationLandscapeLeft','UIInterfaceOrientationLandscapeRight'],'CFBundleURLTypes':[{'CFBundleURLSchemes':['bigcatch'],'CFBundleURLName':'org.siltreed.nacre201'}]})
+plist('Harbor/Info.plist',{**base,**{'NSCameraUsageDescription': 'Take a photo or video to attach to a website form.', 'NSMicrophoneUsageDescription': 'Record sound for a video you choose to attach.', 'NSPhotoLibraryUsageDescription': 'Choose a photo or video to attach to a website form.'},'CFBundleDisplayName':'Big Catch','CFBundlePackageType':'APPL','LSRequiresIPhoneOS':True,'UILaunchScreen':{'UIColorName':''},'UIApplicationSceneManifest':{'UIApplicationSupportsMultipleScenes':False},'UIBackgroundModes':['remote-notification'],'UISupportedInterfaceOrientations':['UIInterfaceOrientationPortrait','UIInterfaceOrientationLandscapeLeft','UIInterfaceOrientationLandscapeRight'],'UISupportedInterfaceOrientations~ipad':['UIInterfaceOrientationPortrait','UIInterfaceOrientationPortraitUpsideDown','UIInterfaceOrientationLandscapeLeft','UIInterfaceOrientationLandscapeRight'],'CFBundleURLTypes':[{'CFBundleURLSchemes':['bigcatch'],'CFBundleURLName':'org.siltreed.nacre201'}]})
 plist('Widgets/Info.plist',{**base,'CFBundlePackageType':'XPC!','CFBundleDisplayName':'Big Catch','NSExtension':{'NSExtensionPointIdentifier':'com.apple.widgetkit-extension'}})
 plist('Harbor/Nacre.entitlements',{'com.apple.security.application-groups':['group.org.siltreed.bc201.nacre'],'aps-environment':'development'})
 plist('Widgets/Wave.entitlements',{'com.apple.security.application-groups':['group.org.siltreed.bc201.nacre']})
@@ -26,12 +26,33 @@ refs={}
 def ref(path,typ):
  k=obj('PBXFileReference',lastKnownFileType=typ,path=path,sourceTree='<group>');refs[path]=k;return k
 paths=['Harbor/Shoal.swift','Harbor/Drift.swift','Harbor/Lagoon.swift','Harbor/Ripples.swift','Widgets/GlanceC72a5a.swift','Checks/Verify.swift']
-for p in paths:ref(p,'sourcecode.swift')
+web_sources = sorted(str(p.relative_to(r)) for p in (r/'Harbor/Website').glob('*.swift'))
+for p in paths+web_sources:ref(p,'sourcecode.swift')
 for p,t in [('Harbor/Pebbles.xcassets','folder.assetcatalog'),('Harbor/Localizable.xcstrings','text.json.xcstrings'),('Harbor/InfoPlist.xcstrings','text.json.xcstrings'),('Harbor/PrivacyInfo.xcprivacy','text.xml'),('Harbor/Info.plist','text.plist.xml'),('Widgets/Info.plist','text.plist.xml'),('Harbor/Nacre.entitlements','text.plist.entitlements'),('Widgets/Wave.entitlements','text.plist.entitlements')]:ref(p,t)
 products={}
 for n,t in [('Nacre','wrapper.application'),('Ripple','wrapper.app-extension'),('CurrentChecks','wrapper.cfbundle'),('ShoreWalk','wrapper.cfbundle')]:products[n]=obj('PBXFileReference',explicitFileType=t,path=n+('.app' if n=='Nacre' else '.appex' if n=='Ripple' else '.xctest'),sourceTree='BUILT_PRODUCTS_DIR')
 pg=obj('PBXGroup',children=list(products.values()),name='Products',sourceTree='<group>')
 group=obj('PBXGroup',children=list(refs.values())+[pg],sourceTree='<group>')
+folders = {Path('.'): group}
+def project_folder(directory):
+    if directory not in folders:
+        parent = project_folder(directory.parent)
+        group = obj('PBXGroup', path=directory.name, sourceTree='<group>', children=[])
+        objects[parent]['children'].append(group)
+        folders[directory] = group
+    return folders[directory]
+
+for item in list(objects[group]['children']):
+    entry = objects[item]
+    if entry['isa'] == 'PBXFileReference':
+        path = Path(entry['path'])
+        entry['path'] = path.name
+    else:
+        continue
+    if path.parent != Path('.'):
+        objects[group]['children'].remove(item)
+        objects[project_folder(path.parent)]['children'].append(item)
+
 def config(settings):
  arr=[]
  for name in ['Estuary','Tidal']:arr.append(obj('XCBuildConfiguration',name=name,buildSettings=settings(name)))
@@ -41,7 +62,7 @@ def phase(isa,paths,**kw):return obj(isa,buildActionMask=2147483647,files=[obj('
 project_id=uuid.uuid4().hex[:24].upper()
 targets={}
 for name,src,resource,kind,bundle in [
- ('Nacre',paths[:4]+[paths[4]],['Harbor/Pebbles.xcassets','Harbor/Localizable.xcstrings','Harbor/InfoPlist.xcstrings','Harbor/PrivacyInfo.xcprivacy'],'application','org.siltreed.nacre201'),
+ ('Nacre',paths[:4]+[paths[4]]+web_sources,['Harbor/Pebbles.xcassets','Harbor/Localizable.xcstrings','Harbor/InfoPlist.xcstrings','Harbor/PrivacyInfo.xcprivacy'],'application','org.siltreed.nacre201'),
  ('Ripple',[paths[0],paths[4]],['Harbor/Localizable.xcstrings','Harbor/PrivacyInfo.xcprivacy'],'app-extension','org.siltreed.nacre201.ripple'),
  ('CurrentChecks',[paths[0],paths[5]],[],'bundle.unit-test','org.siltreed.nacre201.rules'),
  ('ShoreWalk',[paths[5]],[],'bundle.ui-testing','org.siltreed.nacre201.walk')]:

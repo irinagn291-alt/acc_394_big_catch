@@ -1,2 +1,792 @@
 // !$*UTF8*$!
-{ "archiveVersion" = 1; "classes" = {  }; "objectVersion" = 56; "objects" = { "C089397CC6F04A5EB971515C" = { "isa" = "PBXFileReference"; "lastKnownFileType" = "sourcecode.swift"; "path" = "Harbor/Shoal.swift"; "sourceTree" = "<group>"; }; "5FCF5114CD87406799ABAF4B" = { "isa" = "PBXFileReference"; "lastKnownFileType" = "sourcecode.swift"; "path" = "Harbor/Drift.swift"; "sourceTree" = "<group>"; }; "D2DA0ED636B843B1AB3D8BB1" = { "isa" = "PBXFileReference"; "lastKnownFileType" = "sourcecode.swift"; "path" = "Harbor/Lagoon.swift"; "sourceTree" = "<group>"; }; "FBA67E2DF32C4A5582BA08A0" = { "isa" = "PBXFileReference"; "lastKnownFileType" = "sourcecode.swift"; "path" = "Harbor/Ripples.swift"; "sourceTree" = "<group>"; }; "D4EDF6A8113A4A3B9A62FEF1" = { "isa" = "PBXFileReference"; "lastKnownFileType" = "sourcecode.swift"; "path" = "Widgets/GlanceC72a5a.swift"; "sourceTree" = "<group>"; }; "E247B8CBF2C44DECA3852D8F" = { "isa" = "PBXFileReference"; "lastKnownFileType" = "sourcecode.swift"; "path" = "Checks/Verify.swift"; "sourceTree" = "<group>"; }; "622E63816CD44C7593D738A1" = { "isa" = "PBXFileReference"; "lastKnownFileType" = "folder.assetcatalog"; "path" = "Harbor/Pebbles.xcassets"; "sourceTree" = "<group>"; }; "DD6B93D6772C4250BB14491D" = { "isa" = "PBXFileReference"; "lastKnownFileType" = "text.json.xcstrings"; "path" = "Harbor/Localizable.xcstrings"; "sourceTree" = "<group>"; }; "C18E811522CB47C3917BD502" = { "isa" = "PBXFileReference"; "lastKnownFileType" = "text.json.xcstrings"; "path" = "Harbor/InfoPlist.xcstrings"; "sourceTree" = "<group>"; }; "0F3958FE990A4DABB350989B" = { "isa" = "PBXFileReference"; "lastKnownFileType" = "text.xml"; "path" = "Harbor/PrivacyInfo.xcprivacy"; "sourceTree" = "<group>"; }; "7F1D42555F0D42AEB9268897" = { "isa" = "PBXFileReference"; "lastKnownFileType" = "text.plist.xml"; "path" = "Harbor/Info.plist"; "sourceTree" = "<group>"; }; "0FC690252CAE47A9A34092A6" = { "isa" = "PBXFileReference"; "lastKnownFileType" = "text.plist.xml"; "path" = "Widgets/Info.plist"; "sourceTree" = "<group>"; }; "05F708BE45AE49E892EE752D" = { "isa" = "PBXFileReference"; "lastKnownFileType" = "text.plist.entitlements"; "path" = "Harbor/Nacre.entitlements"; "sourceTree" = "<group>"; }; "41F4C6C267E6426A98EE08AF" = { "isa" = "PBXFileReference"; "lastKnownFileType" = "text.plist.entitlements"; "path" = "Widgets/Wave.entitlements"; "sourceTree" = "<group>"; }; "E828A5940F7A40CB8B3DDDE9" = { "isa" = "PBXFileReference"; "explicitFileType" = "wrapper.application"; "path" = "Nacre.app"; "sourceTree" = "BUILT_PRODUCTS_DIR"; }; "39E8604026CF47A2B6D6A79C" = { "isa" = "PBXFileReference"; "explicitFileType" = "wrapper.app-extension"; "path" = "Ripple.appex"; "sourceTree" = "BUILT_PRODUCTS_DIR"; }; "096A4174A5754DE6BCB67643" = { "isa" = "PBXFileReference"; "explicitFileType" = "wrapper.cfbundle"; "path" = "CurrentChecks.xctest"; "sourceTree" = "BUILT_PRODUCTS_DIR"; }; "7377E77A200C44C48CF8FB94" = { "isa" = "PBXFileReference"; "explicitFileType" = "wrapper.cfbundle"; "path" = "ShoreWalk.xctest"; "sourceTree" = "BUILT_PRODUCTS_DIR"; }; "913516C28B154485AFAC7A4C" = { "isa" = "PBXGroup"; "children" = ( "E828A5940F7A40CB8B3DDDE9", "39E8604026CF47A2B6D6A79C", "096A4174A5754DE6BCB67643", "7377E77A200C44C48CF8FB94" ); "name" = "Products"; "sourceTree" = "<group>"; }; "BC7BE12EEB9E44C39C40899D" = { "isa" = "PBXGroup"; "children" = ( "C089397CC6F04A5EB971515C", "5FCF5114CD87406799ABAF4B", "D2DA0ED636B843B1AB3D8BB1", "FBA67E2DF32C4A5582BA08A0", "D4EDF6A8113A4A3B9A62FEF1", "E247B8CBF2C44DECA3852D8F", "622E63816CD44C7593D738A1", "DD6B93D6772C4250BB14491D", "C18E811522CB47C3917BD502", "0F3958FE990A4DABB350989B", "7F1D42555F0D42AEB9268897", "0FC690252CAE47A9A34092A6", "05F708BE45AE49E892EE752D", "41F4C6C267E6426A98EE08AF", "913516C28B154485AFAC7A4C" ); "sourceTree" = "<group>"; }; "B85AC5ED83DD4C65AEBE9EB6" = { "isa" = "XCBuildConfiguration"; "name" = "Estuary"; "buildSettings" = { "IPHONEOS_DEPLOYMENT_TARGET" = "17.6"; "SDKROOT" = "iphoneos"; "SWIFT_VERSION" = "5.0"; "CLANG_ENABLE_MODULES" = "YES"; "SWIFT_OPTIMIZATION_LEVEL" = "-Onone"; "DEBUG_INFORMATION_FORMAT" = "dwarf"; "ENABLE_TESTABILITY" = "YES"; "GCC_PREPROCESSOR_DEFINITIONS" = ( "$(inherited)", "DEBUG=1" ); }; }; "EF9ED110CAF541FE94629AC1" = { "isa" = "XCBuildConfiguration"; "name" = "Debug"; "buildSettings" = { "IPHONEOS_DEPLOYMENT_TARGET" = "17.6"; "SDKROOT" = "iphoneos"; "SWIFT_VERSION" = "5.0"; "CLANG_ENABLE_MODULES" = "YES"; "SWIFT_OPTIMIZATION_LEVEL" = "-Onone"; "DEBUG_INFORMATION_FORMAT" = "dwarf"; "ENABLE_TESTABILITY" = "YES"; "GCC_PREPROCESSOR_DEFINITIONS" = ( "$(inherited)", "DEBUG=1" ); }; }; "4D7EB3E7925E4E28A5A9EFA5" = { "isa" = "XCBuildConfiguration"; "name" = "Tidal"; "buildSettings" = { "IPHONEOS_DEPLOYMENT_TARGET" = "17.6"; "SDKROOT" = "iphoneos"; "SWIFT_VERSION" = "5.0"; "CLANG_ENABLE_MODULES" = "YES"; "SWIFT_OPTIMIZATION_LEVEL" = "-O"; "DEBUG_INFORMATION_FORMAT" = "dwarf-with-dsym"; "ENABLE_TESTABILITY" = "NO"; "GCC_PREPROCESSOR_DEFINITIONS" = ( "$(inherited)" ); }; }; "A0378D3CAA3B4C8C9DA870FF" = { "isa" = "XCConfigurationList"; "buildConfigurations" = ( "B85AC5ED83DD4C65AEBE9EB6", "EF9ED110CAF541FE94629AC1", "4D7EB3E7925E4E28A5A9EFA5" ); "defaultConfigurationIsVisible" = 0; "defaultConfigurationName" = "Estuary"; }; "FEF5D2302C814263AFF035F0" = { "isa" = "XCBuildConfiguration"; "name" = "Estuary"; "buildSettings" = { INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO; "SWIFT_ACTIVE_COMPILATION_CONDITIONS[sdk=iphonesimulator*]" = "$(inherited) DEBUG"; "PRODUCT_NAME" = "Nacre"; "PRODUCT_BUNDLE_IDENTIFIER" = "org.siltreed.nacre201"; "CURRENT_PROJECT_VERSION" = "20111"; "MARKETING_VERSION" = "1.2.1"; "TARGETED_DEVICE_FAMILY" = "1,2"; "CODE_SIGN_STYLE" = "Automatic"; "SWIFT_EMIT_LOC_STRINGS" = "NO"; "SUPPORTED_PLATFORMS" = "iphoneos iphonesimulator"; "SUPPORTS_MACCATALYST" = "NO"; "INFOPLIST_FILE" = "Harbor/Info.plist"; "CODE_SIGN_ENTITLEMENTS" = "Harbor/Nacre.entitlements"; "ASSETCATALOG_COMPILER_APPICON_NAME" = "AppIcon"; "LD_RUNPATH_SEARCH_PATHS" = ( "$(inherited)", "@executable_path/Frameworks" ); }; }; "EF9ED110CAF541FE94629AC2" = { "isa" = "XCBuildConfiguration"; "name" = "Debug"; "buildSettings" = { INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO; "SWIFT_ACTIVE_COMPILATION_CONDITIONS[sdk=iphonesimulator*]" = "$(inherited) DEBUG"; "PRODUCT_NAME" = "Nacre"; "PRODUCT_BUNDLE_IDENTIFIER" = "org.siltreed.nacre201"; "CURRENT_PROJECT_VERSION" = "20111"; "MARKETING_VERSION" = "1.2.1"; "TARGETED_DEVICE_FAMILY" = "1,2"; "CODE_SIGN_STYLE" = "Automatic"; "SWIFT_EMIT_LOC_STRINGS" = "NO"; "SUPPORTED_PLATFORMS" = "iphoneos iphonesimulator"; "SUPPORTS_MACCATALYST" = "NO"; "INFOPLIST_FILE" = "Harbor/Info.plist"; "CODE_SIGN_ENTITLEMENTS" = "Harbor/Nacre.entitlements"; "ASSETCATALOG_COMPILER_APPICON_NAME" = "AppIcon"; "LD_RUNPATH_SEARCH_PATHS" = ( "$(inherited)", "@executable_path/Frameworks" ); }; }; "DC6BAA979DB84F97AB00C07C" = { "isa" = "XCBuildConfiguration"; "name" = "Tidal"; "buildSettings" = { INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO; "PRODUCT_NAME" = "Nacre"; "PRODUCT_BUNDLE_IDENTIFIER" = "org.siltreed.nacre201"; "CURRENT_PROJECT_VERSION" = "20111"; "MARKETING_VERSION" = "1.2.1"; "TARGETED_DEVICE_FAMILY" = "1,2"; "CODE_SIGN_STYLE" = "Automatic"; "SWIFT_EMIT_LOC_STRINGS" = "NO"; "SUPPORTED_PLATFORMS" = "iphoneos iphonesimulator"; "SUPPORTS_MACCATALYST" = "NO"; "INFOPLIST_FILE" = "Harbor/Info.plist"; "CODE_SIGN_ENTITLEMENTS" = "Harbor/Nacre.entitlements"; "ASSETCATALOG_COMPILER_APPICON_NAME" = "AppIcon"; "LD_RUNPATH_SEARCH_PATHS" = ( "$(inherited)", "@executable_path/Frameworks" ); }; }; "A2983E7F13F44669BB729904" = { "isa" = "XCConfigurationList"; "buildConfigurations" = ( "FEF5D2302C814263AFF035F0", "EF9ED110CAF541FE94629AC2", "DC6BAA979DB84F97AB00C07C" ); "defaultConfigurationIsVisible" = 0; "defaultConfigurationName" = "Estuary"; }; "265961AC18434B7883EA42C2" = { "isa" = "PBXBuildFile"; "fileRef" = "C089397CC6F04A5EB971515C"; }; "F9BE789A844F4650A2130AB4" = { "isa" = "PBXBuildFile"; "fileRef" = "5FCF5114CD87406799ABAF4B"; }; "7B56DB17C0D44807BEFE1972" = { "isa" = "PBXBuildFile"; "fileRef" = "D2DA0ED636B843B1AB3D8BB1"; }; "9AB81F81447945E59F6BB007" = { "isa" = "PBXBuildFile"; "fileRef" = "FBA67E2DF32C4A5582BA08A0"; }; "CB98EA172B8D4C4187F70C26" = { "isa" = "PBXBuildFile"; "fileRef" = "D4EDF6A8113A4A3B9A62FEF1"; }; "3BCFD8D454A6462AAF54E318" = { "isa" = "PBXSourcesBuildPhase"; "buildActionMask" = 2147483647; "files" = ( "265961AC18434B7883EA42C2", "F9BE789A844F4650A2130AB4", "7B56DB17C0D44807BEFE1972", "9AB81F81447945E59F6BB007", "CB98EA172B8D4C4187F70C26" ); "runOnlyForDeploymentPostprocessing" = 0; }; "6CA03A82F9D343629AA6D194" = { "isa" = "PBXFrameworksBuildPhase"; "buildActionMask" = 2147483647; "files" = (  ); "runOnlyForDeploymentPostprocessing" = 0; }; "DEA9BAE7C3AA42CD96C21156" = { "isa" = "PBXBuildFile"; "fileRef" = "622E63816CD44C7593D738A1"; }; "E1CA305AA9C749C6A42F2CC0" = { "isa" = "PBXBuildFile"; "fileRef" = "DD6B93D6772C4250BB14491D"; }; "30D4F602D4C84FCAB2AB203B" = { "isa" = "PBXBuildFile"; "fileRef" = "C18E811522CB47C3917BD502"; }; "BCFC4032E19343D0AEF31517" = { "isa" = "PBXBuildFile"; "fileRef" = "0F3958FE990A4DABB350989B"; }; "44D51D2DF89943E3B7AC1F76" = { "isa" = "PBXResourcesBuildPhase"; "buildActionMask" = 2147483647; "files" = ( "DEA9BAE7C3AA42CD96C21156", "E1CA305AA9C749C6A42F2CC0", "30D4F602D4C84FCAB2AB203B", "BCFC4032E19343D0AEF31517" ); "runOnlyForDeploymentPostprocessing" = 0; }; "6B907FD279AB4B3EA8B6B438" = { "isa" = "PBXNativeTarget"; "name" = "Nacre"; "productName" = "Nacre"; "productReference" = "E828A5940F7A40CB8B3DDDE9"; "productType" = "com.apple.product-type.application"; "buildConfigurationList" = "A2983E7F13F44669BB729904"; "buildPhases" = ( "3BCFD8D454A6462AAF54E318", "6CA03A82F9D343629AA6D194", "44D51D2DF89943E3B7AC1F76", "D6D36C790A0E44058AAE2F20" ); "buildRules" = (  ); "dependencies" = ( "8DF9E5A4B7564EB9B38EF6E6" ); }; "DA6ECB5A89FF439FAA9D0969" = { "isa" = "XCBuildConfiguration"; "name" = "Estuary"; "buildSettings" = { "PRODUCT_NAME" = "Ripple"; "PRODUCT_BUNDLE_IDENTIFIER" = "org.siltreed.nacre201.ripple"; "CURRENT_PROJECT_VERSION" = "20111"; "MARKETING_VERSION" = "1.2.1"; "TARGETED_DEVICE_FAMILY" = "1,2"; "CODE_SIGN_STYLE" = "Automatic"; "SWIFT_EMIT_LOC_STRINGS" = "NO"; "SUPPORTED_PLATFORMS" = "iphoneos iphonesimulator"; "SUPPORTS_MACCATALYST" = "NO"; "INFOPLIST_FILE" = "Widgets/Info.plist"; "CODE_SIGN_ENTITLEMENTS" = "Widgets/Wave.entitlements"; "SWIFT_ACTIVE_COMPILATION_CONDITIONS" = "WIDGET_EXTENSION"; "APPLICATION_EXTENSION_API_ONLY" = "YES"; "SKIP_INSTALL" = "YES"; "LD_RUNPATH_SEARCH_PATHS" = ( "$(inherited)", "@executable_path/../../Frameworks" ); }; }; "EF9ED110CAF541FE94629AC3" = { "isa" = "XCBuildConfiguration"; "name" = "Debug"; "buildSettings" = { "PRODUCT_NAME" = "Ripple"; "PRODUCT_BUNDLE_IDENTIFIER" = "org.siltreed.nacre201.ripple"; "CURRENT_PROJECT_VERSION" = "20111"; "MARKETING_VERSION" = "1.2.1"; "TARGETED_DEVICE_FAMILY" = "1,2"; "CODE_SIGN_STYLE" = "Automatic"; "SWIFT_EMIT_LOC_STRINGS" = "NO"; "SUPPORTED_PLATFORMS" = "iphoneos iphonesimulator"; "SUPPORTS_MACCATALYST" = "NO"; "INFOPLIST_FILE" = "Widgets/Info.plist"; "CODE_SIGN_ENTITLEMENTS" = "Widgets/Wave.entitlements"; "SWIFT_ACTIVE_COMPILATION_CONDITIONS" = "WIDGET_EXTENSION"; "APPLICATION_EXTENSION_API_ONLY" = "YES"; "SKIP_INSTALL" = "YES"; "LD_RUNPATH_SEARCH_PATHS" = ( "$(inherited)", "@executable_path/../../Frameworks" ); }; }; "FA0B0EB2114D4436BB2631D7" = { "isa" = "XCBuildConfiguration"; "name" = "Tidal"; "buildSettings" = { "PRODUCT_NAME" = "Ripple"; "PRODUCT_BUNDLE_IDENTIFIER" = "org.siltreed.nacre201.ripple"; "CURRENT_PROJECT_VERSION" = "20111"; "MARKETING_VERSION" = "1.2.1"; "TARGETED_DEVICE_FAMILY" = "1,2"; "CODE_SIGN_STYLE" = "Automatic"; "SWIFT_EMIT_LOC_STRINGS" = "NO"; "SUPPORTED_PLATFORMS" = "iphoneos iphonesimulator"; "SUPPORTS_MACCATALYST" = "NO"; "INFOPLIST_FILE" = "Widgets/Info.plist"; "CODE_SIGN_ENTITLEMENTS" = "Widgets/Wave.entitlements"; "SWIFT_ACTIVE_COMPILATION_CONDITIONS" = "WIDGET_EXTENSION"; "APPLICATION_EXTENSION_API_ONLY" = "YES"; "SKIP_INSTALL" = "YES"; "LD_RUNPATH_SEARCH_PATHS" = ( "$(inherited)", "@executable_path/../../Frameworks" ); }; }; "4D548D6288CC4966A7205F64" = { "isa" = "XCConfigurationList"; "buildConfigurations" = ( "DA6ECB5A89FF439FAA9D0969", "EF9ED110CAF541FE94629AC3", "FA0B0EB2114D4436BB2631D7" ); "defaultConfigurationIsVisible" = 0; "defaultConfigurationName" = "Estuary"; }; "4398D482549C46A7968E3BD7" = { "isa" = "PBXBuildFile"; "fileRef" = "C089397CC6F04A5EB971515C"; }; "CE516B00AFBA46DF883A85E0" = { "isa" = "PBXBuildFile"; "fileRef" = "D4EDF6A8113A4A3B9A62FEF1"; }; "A189E92972564EF6A9F45564" = { "isa" = "PBXSourcesBuildPhase"; "buildActionMask" = 2147483647; "files" = ( "4398D482549C46A7968E3BD7", "CE516B00AFBA46DF883A85E0" ); "runOnlyForDeploymentPostprocessing" = 0; }; "E3908B4D1C7044A78C139632" = { "isa" = "PBXFrameworksBuildPhase"; "buildActionMask" = 2147483647; "files" = (  ); "runOnlyForDeploymentPostprocessing" = 0; }; "8B011F512FFE4DC6AC3474DB" = { "isa" = "PBXBuildFile"; "fileRef" = "DD6B93D6772C4250BB14491D"; }; "F52E3C4EE2AC481E9AF9388A" = { "isa" = "PBXBuildFile"; "fileRef" = "0F3958FE990A4DABB350989B"; }; "BA1BA7D7A9B146C0B3FE302A" = { "isa" = "PBXResourcesBuildPhase"; "buildActionMask" = 2147483647; "files" = ( "8B011F512FFE4DC6AC3474DB", "F52E3C4EE2AC481E9AF9388A" ); "runOnlyForDeploymentPostprocessing" = 0; }; "E9D63B971BDD4BD19D5D5054" = { "isa" = "PBXNativeTarget"; "name" = "Ripple"; "productName" = "Ripple"; "productReference" = "39E8604026CF47A2B6D6A79C"; "productType" = "com.apple.product-type.app-extension"; "buildConfigurationList" = "4D548D6288CC4966A7205F64"; "buildPhases" = ( "A189E92972564EF6A9F45564", "E3908B4D1C7044A78C139632", "BA1BA7D7A9B146C0B3FE302A" ); "buildRules" = (  ); "dependencies" = (  ); }; "1063EF2CDB254990BC67D088" = { "isa" = "XCBuildConfiguration"; "name" = "Estuary"; "buildSettings" = { "PRODUCT_NAME" = "CurrentChecks"; "PRODUCT_BUNDLE_IDENTIFIER" = "org.siltreed.nacre201.rules"; "CURRENT_PROJECT_VERSION" = "20111"; "MARKETING_VERSION" = "1.2.1"; "TARGETED_DEVICE_FAMILY" = "1,2"; "CODE_SIGN_STYLE" = "Automatic"; "SWIFT_EMIT_LOC_STRINGS" = "NO"; "SUPPORTED_PLATFORMS" = "iphoneos iphonesimulator"; "SUPPORTS_MACCATALYST" = "NO"; "GENERATE_INFOPLIST_FILE" = "YES"; "SWIFT_ACTIVE_COMPILATION_CONDITIONS" = "RULE_CHECKS"; "TEST_TARGET_NAME" = ""; }; }; "EF9ED110CAF541FE94629AC4" = { "isa" = "XCBuildConfiguration"; "name" = "Debug"; "buildSettings" = { "PRODUCT_NAME" = "CurrentChecks"; "PRODUCT_BUNDLE_IDENTIFIER" = "org.siltreed.nacre201.rules"; "CURRENT_PROJECT_VERSION" = "20111"; "MARKETING_VERSION" = "1.2.1"; "TARGETED_DEVICE_FAMILY" = "1,2"; "CODE_SIGN_STYLE" = "Automatic"; "SWIFT_EMIT_LOC_STRINGS" = "NO"; "SUPPORTED_PLATFORMS" = "iphoneos iphonesimulator"; "SUPPORTS_MACCATALYST" = "NO"; "GENERATE_INFOPLIST_FILE" = "YES"; "SWIFT_ACTIVE_COMPILATION_CONDITIONS" = "RULE_CHECKS"; "TEST_TARGET_NAME" = ""; }; }; "338D50C0E505415FA76FB49A" = { "isa" = "XCBuildConfiguration"; "name" = "Tidal"; "buildSettings" = { "PRODUCT_NAME" = "CurrentChecks"; "PRODUCT_BUNDLE_IDENTIFIER" = "org.siltreed.nacre201.rules"; "CURRENT_PROJECT_VERSION" = "20111"; "MARKETING_VERSION" = "1.2.1"; "TARGETED_DEVICE_FAMILY" = "1,2"; "CODE_SIGN_STYLE" = "Automatic"; "SWIFT_EMIT_LOC_STRINGS" = "NO"; "SUPPORTED_PLATFORMS" = "iphoneos iphonesimulator"; "SUPPORTS_MACCATALYST" = "NO"; "GENERATE_INFOPLIST_FILE" = "YES"; "SWIFT_ACTIVE_COMPILATION_CONDITIONS" = "RULE_CHECKS"; "TEST_TARGET_NAME" = ""; }; }; "0665121E672440E1BAB24709" = { "isa" = "XCConfigurationList"; "buildConfigurations" = ( "1063EF2CDB254990BC67D088", "EF9ED110CAF541FE94629AC4", "338D50C0E505415FA76FB49A" ); "defaultConfigurationIsVisible" = 0; "defaultConfigurationName" = "Estuary"; }; "9F3E8897F7CE4CF7B4EEA642" = { "isa" = "PBXBuildFile"; "fileRef" = "C089397CC6F04A5EB971515C"; }; "76EE1B9C2E96486899E19065" = { "isa" = "PBXBuildFile"; "fileRef" = "E247B8CBF2C44DECA3852D8F"; }; "EEEAC378B07F41719E98319B" = { "isa" = "PBXSourcesBuildPhase"; "buildActionMask" = 2147483647; "files" = ( "9F3E8897F7CE4CF7B4EEA642", "76EE1B9C2E96486899E19065" ); "runOnlyForDeploymentPostprocessing" = 0; }; "8574D9ABC0CF4010A01F8354" = { "isa" = "PBXFrameworksBuildPhase"; "buildActionMask" = 2147483647; "files" = (  ); "runOnlyForDeploymentPostprocessing" = 0; }; "BA821E84408D492494C878EC" = { "isa" = "PBXResourcesBuildPhase"; "buildActionMask" = 2147483647; "files" = (  ); "runOnlyForDeploymentPostprocessing" = 0; }; "5B6A3F3EA2994EE68249190A" = { "isa" = "PBXNativeTarget"; "name" = "CurrentChecks"; "productName" = "CurrentChecks"; "productReference" = "096A4174A5754DE6BCB67643"; "productType" = "com.apple.product-type.bundle.unit-test"; "buildConfigurationList" = "0665121E672440E1BAB24709"; "buildPhases" = ( "EEEAC378B07F41719E98319B", "8574D9ABC0CF4010A01F8354", "BA821E84408D492494C878EC" ); "buildRules" = (  ); "dependencies" = (  ); }; "DAFA489546894C618582DAC0" = { "isa" = "XCBuildConfiguration"; "name" = "Estuary"; "buildSettings" = { "PRODUCT_NAME" = "ShoreWalk"; "PRODUCT_BUNDLE_IDENTIFIER" = "org.siltreed.nacre201.walk"; "CURRENT_PROJECT_VERSION" = "20111"; "MARKETING_VERSION" = "1.2.1"; "TARGETED_DEVICE_FAMILY" = "1,2"; "CODE_SIGN_STYLE" = "Automatic"; "SWIFT_EMIT_LOC_STRINGS" = "NO"; "SUPPORTED_PLATFORMS" = "iphoneos iphonesimulator"; "SUPPORTS_MACCATALYST" = "NO"; "GENERATE_INFOPLIST_FILE" = "YES"; "SWIFT_ACTIVE_COMPILATION_CONDITIONS" = "SHORE_WALK"; "TEST_TARGET_NAME" = "Nacre"; }; }; "EF9ED110CAF541FE94629AC5" = { "isa" = "XCBuildConfiguration"; "name" = "Debug"; "buildSettings" = { "PRODUCT_NAME" = "ShoreWalk"; "PRODUCT_BUNDLE_IDENTIFIER" = "org.siltreed.nacre201.walk"; "CURRENT_PROJECT_VERSION" = "20111"; "MARKETING_VERSION" = "1.2.1"; "TARGETED_DEVICE_FAMILY" = "1,2"; "CODE_SIGN_STYLE" = "Automatic"; "SWIFT_EMIT_LOC_STRINGS" = "NO"; "SUPPORTED_PLATFORMS" = "iphoneos iphonesimulator"; "SUPPORTS_MACCATALYST" = "NO"; "GENERATE_INFOPLIST_FILE" = "YES"; "SWIFT_ACTIVE_COMPILATION_CONDITIONS" = "SHORE_WALK"; "TEST_TARGET_NAME" = "Nacre"; }; }; "10A595026509468CB21B13EC" = { "isa" = "XCBuildConfiguration"; "name" = "Tidal"; "buildSettings" = { "PRODUCT_NAME" = "ShoreWalk"; "PRODUCT_BUNDLE_IDENTIFIER" = "org.siltreed.nacre201.walk"; "CURRENT_PROJECT_VERSION" = "20111"; "MARKETING_VERSION" = "1.2.1"; "TARGETED_DEVICE_FAMILY" = "1,2"; "CODE_SIGN_STYLE" = "Automatic"; "SWIFT_EMIT_LOC_STRINGS" = "NO"; "SUPPORTED_PLATFORMS" = "iphoneos iphonesimulator"; "SUPPORTS_MACCATALYST" = "NO"; "GENERATE_INFOPLIST_FILE" = "YES"; "SWIFT_ACTIVE_COMPILATION_CONDITIONS" = "SHORE_WALK"; "TEST_TARGET_NAME" = "Nacre"; }; }; "A9AEB42CEF0842289DD36F0C" = { "isa" = "XCConfigurationList"; "buildConfigurations" = ( "DAFA489546894C618582DAC0", "EF9ED110CAF541FE94629AC5", "10A595026509468CB21B13EC" ); "defaultConfigurationIsVisible" = 0; "defaultConfigurationName" = "Estuary"; }; "895D7F595BE1408F86355A30" = { "isa" = "PBXBuildFile"; "fileRef" = "E247B8CBF2C44DECA3852D8F"; }; "EEADCB2EE648400D925F13E5" = { "isa" = "PBXSourcesBuildPhase"; "buildActionMask" = 2147483647; "files" = ( "895D7F595BE1408F86355A30" ); "runOnlyForDeploymentPostprocessing" = 0; }; "5338466C358B43E6A65611F0" = { "isa" = "PBXFrameworksBuildPhase"; "buildActionMask" = 2147483647; "files" = (  ); "runOnlyForDeploymentPostprocessing" = 0; }; "B1DD4D0E6CD44F349542F2B4" = { "isa" = "PBXResourcesBuildPhase"; "buildActionMask" = 2147483647; "files" = (  ); "runOnlyForDeploymentPostprocessing" = 0; }; "A63815EA969C495E9FA01A2A" = { "isa" = "PBXNativeTarget"; "name" = "ShoreWalk"; "productName" = "ShoreWalk"; "productReference" = "7377E77A200C44C48CF8FB94"; "productType" = "com.apple.product-type.bundle.ui-testing"; "buildConfigurationList" = "A9AEB42CEF0842289DD36F0C"; "buildPhases" = ( "EEADCB2EE648400D925F13E5", "5338466C358B43E6A65611F0", "B1DD4D0E6CD44F349542F2B4" ); "buildRules" = (  ); "dependencies" = ( "B1AB4CEB932C4E46926AF9A5" ); }; "A3187AC5C2634AC086A75DC7" = { "isa" = "PBXContainerItemProxy"; "containerPortal" = "47A77874E2844385B7968FD3"; "proxyType" = 1; "remoteGlobalIDString" = "E9D63B971BDD4BD19D5D5054"; "remoteInfo" = "Ripple"; }; "8DF9E5A4B7564EB9B38EF6E6" = { "isa" = "PBXTargetDependency"; "target" = "E9D63B971BDD4BD19D5D5054"; "targetProxy" = "A3187AC5C2634AC086A75DC7"; }; "05DD8EE4560444A1A82191AD" = { "isa" = "PBXContainerItemProxy"; "containerPortal" = "47A77874E2844385B7968FD3"; "proxyType" = 1; "remoteGlobalIDString" = "6B907FD279AB4B3EA8B6B438"; "remoteInfo" = "Nacre"; }; "B1AB4CEB932C4E46926AF9A5" = { "isa" = "PBXTargetDependency"; "target" = "6B907FD279AB4B3EA8B6B438"; "targetProxy" = "05DD8EE4560444A1A82191AD"; }; "0F6479E72EDD412ABD28832A" = { "isa" = "PBXBuildFile"; "fileRef" = "39E8604026CF47A2B6D6A79C"; "settings" = { "ATTRIBUTES" = ( "RemoveHeadersOnCopy" ); }; }; "D6D36C790A0E44058AAE2F20" = { "isa" = "PBXCopyFilesBuildPhase"; "buildActionMask" = 2147483647; "files" = ( "0F6479E72EDD412ABD28832A" ); "dstPath" = ""; "dstSubfolderSpec" = 13; "name" = "Embed Water Glance"; "runOnlyForDeploymentPostprocessing" = 0; }; "47A77874E2844385B7968FD3" = { "isa" = "PBXProject"; "attributes" = { "BuildIndependentTargetsInParallel" = "YES"; "LastUpgradeCheck" = "2720"; "ORGANIZATIONNAME" = "Silt Reed Studio 201"; "TargetAttributes" = { "6B907FD279AB4B3EA8B6B438" = { "SystemCapabilities" = { "com.apple.ApplicationGroups.iOS" = { "enabled" = 1; }; "com.apple.Push" = { "enabled" = 1; }; }; }; "E9D63B971BDD4BD19D5D5054" = { "SystemCapabilities" = { "com.apple.ApplicationGroups.iOS" = { "enabled" = 1; }; }; }; "A63815EA969C495E9FA01A2A" = { "TestTargetID" = "6B907FD279AB4B3EA8B6B438"; }; }; }; "buildConfigurationList" = "A0378D3CAA3B4C8C9DA870FF"; "compatibilityVersion" = "Xcode 14.0"; "developmentRegion" = "en"; "knownRegions" = ( "en", "de", "fr", "pt-BR", "Base" ); "mainGroup" = "BC7BE12EEB9E44C39C40899D"; "productRefGroup" = "913516C28B154485AFAC7A4C"; "projectDirPath" = ""; "projectRoot" = ""; "targets" = ( "6B907FD279AB4B3EA8B6B438", "E9D63B971BDD4BD19D5D5054", "5B6A3F3EA2994EE68249190A", "A63815EA969C495E9FA01A2A" ); }; }; "rootObject" = "47A77874E2844385B7968FD3"; }
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0F6479E72EDD412ABD28832A /* Ripple.appex in Embed Water Glance */ = {isa = PBXBuildFile; fileRef = 39E8604026CF47A2B6D6A79C /* Ripple.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		265961AC18434B7883EA42C2 /* Shoal.swift in Sources */ = {isa = PBXBuildFile; fileRef = C089397CC6F04A5EB971515C /* Shoal.swift */; };
+		30D4F602D4C84FCAB2AB203B /* InfoPlist.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = C18E811522CB47C3917BD502 /* InfoPlist.xcstrings */; };
+		417D8F52CFB84EFB5EE90D68 /* WebsiteGate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C4BAD1A78EBD240D2289DB0 /* WebsiteGate.swift */; };
+		4398D482549C46A7968E3BD7 /* Shoal.swift in Sources */ = {isa = PBXBuildFile; fileRef = C089397CC6F04A5EB971515C /* Shoal.swift */; };
+		5A637DFE4A4F6FA27AA526DB /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = E721E1EAF9A05BEFA7D06F34 /* NetworkService.swift */; };
+		677A4958719AD06021CB48CD /* DisplayMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4355B3FCB96D0C2F0F9D4A17 /* DisplayMode.swift */; };
+		76EE1B9C2E96486899E19065 /* Verify.swift in Sources */ = {isa = PBXBuildFile; fileRef = E247B8CBF2C44DECA3852D8F /* Verify.swift */; };
+		7B56DB17C0D44807BEFE1972 /* Lagoon.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2DA0ED636B843B1AB3D8BB1 /* Lagoon.swift */; };
+		895D7F595BE1408F86355A30 /* Verify.swift in Sources */ = {isa = PBXBuildFile; fileRef = E247B8CBF2C44DECA3852D8F /* Verify.swift */; };
+		8B011F512FFE4DC6AC3474DB /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = DD6B93D6772C4250BB14491D /* Localizable.xcstrings */; };
+		8EB05CE7E2E11F510F66E599 /* AppConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCD1F45552D2D6CE12D0871A /* AppConfiguration.swift */; };
+		9AB81F81447945E59F6BB007 /* Ripples.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBA67E2DF32C4A5582BA08A0 /* Ripples.swift */; };
+		9F3E8897F7CE4CF7B4EEA642 /* Shoal.swift in Sources */ = {isa = PBXBuildFile; fileRef = C089397CC6F04A5EB971515C /* Shoal.swift */; };
+		A2DE1026AC8B7850D81C4ED5 /* DataCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B31E9B38074F6B2563E077E /* DataCache.swift */; };
+		BCFC4032E19343D0AEF31517 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 0F3958FE990A4DABB350989B /* PrivacyInfo.xcprivacy */; };
+		C41F3689E4DC166E10985010 /* SessionVault.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DDF0B5BF40C398B7ACE2BB3 /* SessionVault.swift */; };
+		C8EB4F2D5482BF925CDC43F7 /* WebsiteNavigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = B45EE062AA1018198EC4DFD6 /* WebsiteNavigation.swift */; };
+		CB98EA172B8D4C4187F70C26 /* GlanceC72a5a.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4EDF6A8113A4A3B9A62FEF1 /* GlanceC72a5a.swift */; };
+		CE516B00AFBA46DF883A85E0 /* GlanceC72a5a.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4EDF6A8113A4A3B9A62FEF1 /* GlanceC72a5a.swift */; };
+		DEA9BAE7C3AA42CD96C21156 /* Pebbles.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 622E63816CD44C7593D738A1 /* Pebbles.xcassets */; };
+		E1CA305AA9C749C6A42F2CC0 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = DD6B93D6772C4250BB14491D /* Localizable.xcstrings */; };
+		EFC5FF40FC1C2A2C5688A829 /* WebsiteBrowser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2946C2FC7765F7B4F81921D9 /* WebsiteBrowser.swift */; };
+		F52E3C4EE2AC481E9AF9388A /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 0F3958FE990A4DABB350989B /* PrivacyInfo.xcprivacy */; };
+		F9BE789A844F4650A2130AB4 /* Drift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FCF5114CD87406799ABAF4B /* Drift.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		05DD8EE4560444A1A82191AD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 47A77874E2844385B7968FD3 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6B907FD279AB4B3EA8B6B438;
+			remoteInfo = Nacre;
+		};
+		A3187AC5C2634AC086A75DC7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 47A77874E2844385B7968FD3 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E9D63B971BDD4BD19D5D5054;
+			remoteInfo = Ripple;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		D6D36C790A0E44058AAE2F20 /* Embed Water Glance */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				0F6479E72EDD412ABD28832A /* Ripple.appex in Embed Water Glance */,
+			);
+			name = "Embed Water Glance";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		05F708BE45AE49E892EE752D /* Nacre.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Nacre.entitlements; sourceTree = "<group>"; };
+		096A4174A5754DE6BCB67643 /* CurrentChecks.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; path = CurrentChecks.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0DDF0B5BF40C398B7ACE2BB3 /* SessionVault.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SessionVault.swift; sourceTree = "<group>"; };
+		0F3958FE990A4DABB350989B /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		0FC690252CAE47A9A34092A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2946C2FC7765F7B4F81921D9 /* WebsiteBrowser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebsiteBrowser.swift; sourceTree = "<group>"; };
+		2C4BAD1A78EBD240D2289DB0 /* WebsiteGate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebsiteGate.swift; sourceTree = "<group>"; };
+		39E8604026CF47A2B6D6A79C /* Ripple.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; path = Ripple.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		41F4C6C267E6426A98EE08AF /* Wave.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Wave.entitlements; sourceTree = "<group>"; };
+		4355B3FCB96D0C2F0F9D4A17 /* DisplayMode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisplayMode.swift; sourceTree = "<group>"; };
+		5B31E9B38074F6B2563E077E /* DataCache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataCache.swift; sourceTree = "<group>"; };
+		5FCF5114CD87406799ABAF4B /* Drift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Drift.swift; sourceTree = "<group>"; };
+		622E63816CD44C7593D738A1 /* Pebbles.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Pebbles.xcassets; sourceTree = "<group>"; };
+		7377E77A200C44C48CF8FB94 /* ShoreWalk.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; path = ShoreWalk.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7F1D42555F0D42AEB9268897 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A5DFD49D30B4684600B6BFA9 /* NacreDebug.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = NacreDebug.entitlements; sourceTree = "<group>"; };
+		A5DFD49E30B4686000B6BFA9 /* RippleDebug.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = RippleDebug.entitlements; sourceTree = "<group>"; };
+		B45EE062AA1018198EC4DFD6 /* WebsiteNavigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebsiteNavigation.swift; sourceTree = "<group>"; };
+		C089397CC6F04A5EB971515C /* Shoal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shoal.swift; sourceTree = "<group>"; };
+		C18E811522CB47C3917BD502 /* InfoPlist.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = InfoPlist.xcstrings; sourceTree = "<group>"; };
+		D2DA0ED636B843B1AB3D8BB1 /* Lagoon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lagoon.swift; sourceTree = "<group>"; };
+		D4EDF6A8113A4A3B9A62FEF1 /* GlanceC72a5a.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlanceC72a5a.swift; sourceTree = "<group>"; };
+		DCD1F45552D2D6CE12D0871A /* AppConfiguration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConfiguration.swift; sourceTree = "<group>"; };
+		DD6B93D6772C4250BB14491D /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		E247B8CBF2C44DECA3852D8F /* Verify.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Verify.swift; sourceTree = "<group>"; };
+		E721E1EAF9A05BEFA7D06F34 /* NetworkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkService.swift; sourceTree = "<group>"; };
+		E828A5940F7A40CB8B3DDDE9 /* Nacre.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; path = Nacre.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FBA67E2DF32C4A5582BA08A0 /* Ripples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ripples.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5338466C358B43E6A65611F0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6CA03A82F9D343629AA6D194 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8574D9ABC0CF4010A01F8354 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E3908B4D1C7044A78C139632 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1F32A064C996A431242CBDAB /* Checks */ = {
+			isa = PBXGroup;
+			children = (
+				E247B8CBF2C44DECA3852D8F /* Verify.swift */,
+			);
+			path = Checks;
+			sourceTree = "<group>";
+		};
+		340361701CB4F6906D29C8AD /* Widgets */ = {
+			isa = PBXGroup;
+			children = (
+				D4EDF6A8113A4A3B9A62FEF1 /* GlanceC72a5a.swift */,
+				0FC690252CAE47A9A34092A6 /* Info.plist */,
+				41F4C6C267E6426A98EE08AF /* Wave.entitlements */,
+			);
+			path = Widgets;
+			sourceTree = "<group>";
+		};
+		913516C28B154485AFAC7A4C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E828A5940F7A40CB8B3DDDE9 /* Nacre.app */,
+				39E8604026CF47A2B6D6A79C /* Ripple.appex */,
+				096A4174A5754DE6BCB67643 /* CurrentChecks.xctest */,
+				7377E77A200C44C48CF8FB94 /* ShoreWalk.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BC7BE12EEB9E44C39C40899D = {
+			isa = PBXGroup;
+			children = (
+				A5DFD49E30B4686000B6BFA9 /* RippleDebug.entitlements */,
+				A5DFD49D30B4684600B6BFA9 /* NacreDebug.entitlements */,
+				F475831578044E20CD337F28 /* Harbor */,
+				340361701CB4F6906D29C8AD /* Widgets */,
+				1F32A064C996A431242CBDAB /* Checks */,
+				913516C28B154485AFAC7A4C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D5BB4B96E4C51113CB98A411 /* Website */ = {
+			isa = PBXGroup;
+			children = (
+				DCD1F45552D2D6CE12D0871A /* AppConfiguration.swift */,
+				E721E1EAF9A05BEFA7D06F34 /* NetworkService.swift */,
+				0DDF0B5BF40C398B7ACE2BB3 /* SessionVault.swift */,
+				5B31E9B38074F6B2563E077E /* DataCache.swift */,
+				4355B3FCB96D0C2F0F9D4A17 /* DisplayMode.swift */,
+				2946C2FC7765F7B4F81921D9 /* WebsiteBrowser.swift */,
+				2C4BAD1A78EBD240D2289DB0 /* WebsiteGate.swift */,
+				B45EE062AA1018198EC4DFD6 /* WebsiteNavigation.swift */,
+			);
+			path = Website;
+			sourceTree = "<group>";
+		};
+		F475831578044E20CD337F28 /* Harbor */ = {
+			isa = PBXGroup;
+			children = (
+				D5BB4B96E4C51113CB98A411 /* Website */,
+				C089397CC6F04A5EB971515C /* Shoal.swift */,
+				5FCF5114CD87406799ABAF4B /* Drift.swift */,
+				D2DA0ED636B843B1AB3D8BB1 /* Lagoon.swift */,
+				FBA67E2DF32C4A5582BA08A0 /* Ripples.swift */,
+				622E63816CD44C7593D738A1 /* Pebbles.xcassets */,
+				DD6B93D6772C4250BB14491D /* Localizable.xcstrings */,
+				C18E811522CB47C3917BD502 /* InfoPlist.xcstrings */,
+				0F3958FE990A4DABB350989B /* PrivacyInfo.xcprivacy */,
+				7F1D42555F0D42AEB9268897 /* Info.plist */,
+				05F708BE45AE49E892EE752D /* Nacre.entitlements */,
+			);
+			path = Harbor;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5B6A3F3EA2994EE68249190A /* CurrentChecks */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0665121E672440E1BAB24709 /* Build configuration list for PBXNativeTarget "CurrentChecks" */;
+			buildPhases = (
+				EEEAC378B07F41719E98319B /* Sources */,
+				8574D9ABC0CF4010A01F8354 /* Frameworks */,
+				BA821E84408D492494C878EC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CurrentChecks;
+			productName = CurrentChecks;
+			productReference = 096A4174A5754DE6BCB67643 /* CurrentChecks.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		6B907FD279AB4B3EA8B6B438 /* Nacre */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A2983E7F13F44669BB729904 /* Build configuration list for PBXNativeTarget "Nacre" */;
+			buildPhases = (
+				3BCFD8D454A6462AAF54E318 /* Sources */,
+				6CA03A82F9D343629AA6D194 /* Frameworks */,
+				44D51D2DF89943E3B7AC1F76 /* Resources */,
+				D6D36C790A0E44058AAE2F20 /* Embed Water Glance */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8DF9E5A4B7564EB9B38EF6E6 /* PBXTargetDependency */,
+			);
+			name = Nacre;
+			productName = Nacre;
+			productReference = E828A5940F7A40CB8B3DDDE9 /* Nacre.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A63815EA969C495E9FA01A2A /* ShoreWalk */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A9AEB42CEF0842289DD36F0C /* Build configuration list for PBXNativeTarget "ShoreWalk" */;
+			buildPhases = (
+				EEADCB2EE648400D925F13E5 /* Sources */,
+				5338466C358B43E6A65611F0 /* Frameworks */,
+				B1DD4D0E6CD44F349542F2B4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B1AB4CEB932C4E46926AF9A5 /* PBXTargetDependency */,
+			);
+			name = ShoreWalk;
+			productName = ShoreWalk;
+			productReference = 7377E77A200C44C48CF8FB94 /* ShoreWalk.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+		E9D63B971BDD4BD19D5D5054 /* Ripple */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4D548D6288CC4966A7205F64 /* Build configuration list for PBXNativeTarget "Ripple" */;
+			buildPhases = (
+				A189E92972564EF6A9F45564 /* Sources */,
+				E3908B4D1C7044A78C139632 /* Frameworks */,
+				BA1BA7D7A9B146C0B3FE302A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Ripple;
+			productName = Ripple;
+			productReference = 39E8604026CF47A2B6D6A79C /* Ripple.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		47A77874E2844385B7968FD3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 2720;
+				ORGANIZATIONNAME = "Silt Reed Studio 201";
+				TargetAttributes = {
+					6B907FD279AB4B3EA8B6B438 = {
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+							com.apple.Push = {
+								enabled = 1;
+							};
+						};
+					};
+					A63815EA969C495E9FA01A2A = {
+						TestTargetID = 6B907FD279AB4B3EA8B6B438;
+					};
+					E9D63B971BDD4BD19D5D5054 = {
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+						};
+					};
+				};
+			};
+			buildConfigurationList = A0378D3CAA3B4C8C9DA870FF /* Build configuration list for PBXProject "Nacre" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				de,
+				fr,
+				"pt-BR",
+				Base,
+			);
+			mainGroup = BC7BE12EEB9E44C39C40899D;
+			productRefGroup = 913516C28B154485AFAC7A4C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6B907FD279AB4B3EA8B6B438 /* Nacre */,
+				E9D63B971BDD4BD19D5D5054 /* Ripple */,
+				5B6A3F3EA2994EE68249190A /* CurrentChecks */,
+				A63815EA969C495E9FA01A2A /* ShoreWalk */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		44D51D2DF89943E3B7AC1F76 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DEA9BAE7C3AA42CD96C21156 /* Pebbles.xcassets in Resources */,
+				E1CA305AA9C749C6A42F2CC0 /* Localizable.xcstrings in Resources */,
+				30D4F602D4C84FCAB2AB203B /* InfoPlist.xcstrings in Resources */,
+				BCFC4032E19343D0AEF31517 /* PrivacyInfo.xcprivacy in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B1DD4D0E6CD44F349542F2B4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BA1BA7D7A9B146C0B3FE302A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B011F512FFE4DC6AC3474DB /* Localizable.xcstrings in Resources */,
+				F52E3C4EE2AC481E9AF9388A /* PrivacyInfo.xcprivacy in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BA821E84408D492494C878EC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3BCFD8D454A6462AAF54E318 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8EB05CE7E2E11F510F66E599 /* AppConfiguration.swift in Sources */,
+				5A637DFE4A4F6FA27AA526DB /* NetworkService.swift in Sources */,
+				C41F3689E4DC166E10985010 /* SessionVault.swift in Sources */,
+				A2DE1026AC8B7850D81C4ED5 /* DataCache.swift in Sources */,
+				677A4958719AD06021CB48CD /* DisplayMode.swift in Sources */,
+				EFC5FF40FC1C2A2C5688A829 /* WebsiteBrowser.swift in Sources */,
+				417D8F52CFB84EFB5EE90D68 /* WebsiteGate.swift in Sources */,
+				C8EB4F2D5482BF925CDC43F7 /* WebsiteNavigation.swift in Sources */,
+				265961AC18434B7883EA42C2 /* Shoal.swift in Sources */,
+				F9BE789A844F4650A2130AB4 /* Drift.swift in Sources */,
+				7B56DB17C0D44807BEFE1972 /* Lagoon.swift in Sources */,
+				9AB81F81447945E59F6BB007 /* Ripples.swift in Sources */,
+				CB98EA172B8D4C4187F70C26 /* GlanceC72a5a.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A189E92972564EF6A9F45564 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4398D482549C46A7968E3BD7 /* Shoal.swift in Sources */,
+				CE516B00AFBA46DF883A85E0 /* GlanceC72a5a.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EEADCB2EE648400D925F13E5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				895D7F595BE1408F86355A30 /* Verify.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EEEAC378B07F41719E98319B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9F3E8897F7CE4CF7B4EEA642 /* Shoal.swift in Sources */,
+				76EE1B9C2E96486899E19065 /* Verify.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8DF9E5A4B7564EB9B38EF6E6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E9D63B971BDD4BD19D5D5054 /* Ripple */;
+			targetProxy = A3187AC5C2634AC086A75DC7 /* PBXContainerItemProxy */;
+		};
+		B1AB4CEB932C4E46926AF9A5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6B907FD279AB4B3EA8B6B438 /* Nacre */;
+			targetProxy = 05DD8EE4560444A1A82191AD /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		1063EF2CDB254990BC67D088 /* Estuary */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 20111;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.2.1;
+				PRODUCT_BUNDLE_IDENTIFIER = org.siltreed.nacre201.rules;
+				PRODUCT_NAME = CurrentChecks;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = RULE_CHECKS;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "";
+			};
+			name = Estuary;
+		};
+		10A595026509468CB21B13EC /* Tidal */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 20111;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.2.1;
+				PRODUCT_BUNDLE_IDENTIFIER = org.siltreed.nacre201.walk;
+				PRODUCT_NAME = ShoreWalk;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = SHORE_WALK;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Nacre;
+			};
+			name = Tidal;
+		};
+		338D50C0E505415FA76FB49A /* Tidal */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 20111;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.2.1;
+				PRODUCT_BUNDLE_IDENTIFIER = org.siltreed.nacre201.rules;
+				PRODUCT_NAME = CurrentChecks;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = RULE_CHECKS;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "";
+			};
+			name = Tidal;
+		};
+		4D7EB3E7925E4E28A5A9EFA5 /* Tidal */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_TESTABILITY = NO;
+				GCC_PREPROCESSOR_DEFINITIONS = "$(inherited)";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Tidal;
+		};
+		B85AC5ED83DD4C65AEBE9EB6 /* Estuary */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_TESTABILITY = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Estuary;
+		};
+		DA6ECB5A89FF439FAA9D0969 /* Estuary */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				CODE_SIGN_ENTITLEMENTS = Widgets/Wave.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 20111;
+				INFOPLIST_FILE = Widgets/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.2.1;
+				PRODUCT_BUNDLE_IDENTIFIER = org.siltreed.nacre201.ripple;
+				PRODUCT_NAME = Ripple;
+				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = WIDGET_EXTENSION;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Estuary;
+		};
+		DAFA489546894C618582DAC0 /* Estuary */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 20111;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.2.1;
+				PRODUCT_BUNDLE_IDENTIFIER = org.siltreed.nacre201.walk;
+				PRODUCT_NAME = ShoreWalk;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = SHORE_WALK;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Nacre;
+			};
+			name = Estuary;
+		};
+		DC6BAA979DB84F97AB00C07C /* Tidal */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = Harbor/Nacre.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 20111;
+				INFOPLIST_FILE = Harbor/Info.plist;
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.2.1;
+				PRODUCT_BUNDLE_IDENTIFIER = org.siltreed.nacre201;
+				PRODUCT_NAME = Nacre;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Tidal;
+		};
+		EF9ED110CAF541FE94629AC1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_TESTABILITY = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		EF9ED110CAF541FE94629AC2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = NacreDebug.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 20111;
+				DEVELOPMENT_TEAM = TQA73XJF6K;
+				INFOPLIST_FILE = Harbor/Info.plist;
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.2.1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.martens.test;
+				PRODUCT_NAME = Nacre;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				"SWIFT_ACTIVE_COMPILATION_CONDITIONS[sdk=iphonesimulator*]" = "$(inherited) DEBUG";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		EF9ED110CAF541FE94629AC3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				CODE_SIGN_ENTITLEMENTS = RippleDebug.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 20111;
+				DEVELOPMENT_TEAM = TQA73XJF6K;
+				INFOPLIST_FILE = Widgets/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.2.1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.martens.test.widget;
+				PRODUCT_NAME = Ripple;
+				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = WIDGET_EXTENSION;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		EF9ED110CAF541FE94629AC4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 20111;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.2.1;
+				PRODUCT_BUNDLE_IDENTIFIER = org.siltreed.nacre201.rules;
+				PRODUCT_NAME = CurrentChecks;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = RULE_CHECKS;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "";
+			};
+			name = Debug;
+		};
+		EF9ED110CAF541FE94629AC5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 20111;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.2.1;
+				PRODUCT_BUNDLE_IDENTIFIER = org.siltreed.nacre201.walk;
+				PRODUCT_NAME = ShoreWalk;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = SHORE_WALK;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Nacre;
+			};
+			name = Debug;
+		};
+		FA0B0EB2114D4436BB2631D7 /* Tidal */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				CODE_SIGN_ENTITLEMENTS = Widgets/Wave.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 20111;
+				INFOPLIST_FILE = Widgets/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.2.1;
+				PRODUCT_BUNDLE_IDENTIFIER = org.siltreed.nacre201.ripple;
+				PRODUCT_NAME = Ripple;
+				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = WIDGET_EXTENSION;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Tidal;
+		};
+		FEF5D2302C814263AFF035F0 /* Estuary */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = Harbor/Nacre.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 20111;
+				INFOPLIST_FILE = Harbor/Info.plist;
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.2.1;
+				PRODUCT_BUNDLE_IDENTIFIER = org.siltreed.nacre201;
+				PRODUCT_NAME = Nacre;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				"SWIFT_ACTIVE_COMPILATION_CONDITIONS[sdk=iphonesimulator*]" = "$(inherited) DEBUG";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Estuary;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0665121E672440E1BAB24709 /* Build configuration list for PBXNativeTarget "CurrentChecks" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1063EF2CDB254990BC67D088 /* Estuary */,
+				EF9ED110CAF541FE94629AC4 /* Debug */,
+				338D50C0E505415FA76FB49A /* Tidal */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Estuary;
+		};
+		4D548D6288CC4966A7205F64 /* Build configuration list for PBXNativeTarget "Ripple" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DA6ECB5A89FF439FAA9D0969 /* Estuary */,
+				EF9ED110CAF541FE94629AC3 /* Debug */,
+				FA0B0EB2114D4436BB2631D7 /* Tidal */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Estuary;
+		};
+		A0378D3CAA3B4C8C9DA870FF /* Build configuration list for PBXProject "Nacre" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B85AC5ED83DD4C65AEBE9EB6 /* Estuary */,
+				EF9ED110CAF541FE94629AC1 /* Debug */,
+				4D7EB3E7925E4E28A5A9EFA5 /* Tidal */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Estuary;
+		};
+		A2983E7F13F44669BB729904 /* Build configuration list for PBXNativeTarget "Nacre" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FEF5D2302C814263AFF035F0 /* Estuary */,
+				EF9ED110CAF541FE94629AC2 /* Debug */,
+				DC6BAA979DB84F97AB00C07C /* Tidal */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Estuary;
+		};
+		A9AEB42CEF0842289DD36F0C /* Build configuration list for PBXNativeTarget "ShoreWalk" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DAFA489546894C618582DAC0 /* Estuary */,
+				EF9ED110CAF541FE94629AC5 /* Debug */,
+				10A595026509468CB21B13EC /* Tidal */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Estuary;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 47A77874E2844385B7968FD3 /* Project object */;
+}
